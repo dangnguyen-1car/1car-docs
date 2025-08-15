@@ -1,0 +1,569 @@
+/**
+ * CSS module for 1CAR Enterprise Portal homepage
+ * Inspired by Flagsmith docs design with 1CAR branding
+ */
+
+/* Announcement Bar */
+.announcementBar {
+  background: linear-gradient(90deg, #D9232D 0%, #e14d53 100%);
+  color: white;
+  padding: 0.5rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.announcementText {
+  margin: 0;
+}
+
+.announcementText strong {
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
+
+/* Hero Banner */
+.heroBanner {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  padding: 4rem 0 6rem 0;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid #e3e8ea;
+}
+
+.heroBackground {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M 100 0 L 0 0 0 100" fill="none" stroke="%23e3e8ea" stroke-width="1"/></pattern></defs><rect width="100%" height="100%" fill="url(%23grid)"/></svg>');
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.logoContainer {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heroLogo {
+  height: 64px;
+  width: auto;
+  max-width: 280px;
+  filter: drop-shadow(0 4px 12px rgba(217, 35, 45, 0.15));
+  transition: transform 0.3s ease;
+}
+
+.heroLogo:hover {
+  transform: scale(1.05);
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: var(--ifm-color-secondary);
+  margin-bottom: 3rem;
+  font-weight: 400;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+/* Hero Buttons */
+.heroButtons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 4rem;
+  flex-wrap: wrap;
+}
+
+.primaryButton {
+  background: linear-gradient(135deg, #D9232D 0%, #b71e27 100%);
+  color: white;
+  border: none;
+  padding: 0.875rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(217, 35, 45, 0.25);
+  text-decoration: none;
+}
+
+.primaryButton:hover {
+  background: linear-gradient(135deg, #b71e27 0%, #961921 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(217, 35, 45, 0.35);
+  color: white;
+  text-decoration: none;
+}
+
+.secondaryButton {
+  background: white;
+  color: var(--ifm-color-primary);
+  border: 2px solid var(--ifm-color-primary);
+  padding: 0.875rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.secondaryButton:hover {
+  background: var(--ifm-color-primary);
+  color: white;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.buttonIcon {
+  font-size: 1.2rem;
+}
+
+/* Quick Stats */
+.quickStats {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.statNumber {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  line-height: 1;
+}
+
+.statLabel {
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Welcome Section */
+.welcomeSection {
+  padding: 5rem 0;
+  background: white;
+}
+
+.welcomeContent {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.welcomeHeader h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  margin-bottom: 1.5rem;
+}
+
+.welcomeDescription {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--ifm-color-secondary);
+  margin: 0;
+}
+
+/* Get Started Section */
+.getStartedSection {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  color: var(--ifm-color-secondary);
+  margin-bottom: 1rem;
+}
+
+.sectionSubtitle {
+  font-size: 1.2rem;
+  text-align: center;
+  color: var(--ifm-color-secondary);
+  opacity: 0.8;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Step Cards */
+.stepCard {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  height: 100%;
+  position: relative;
+  transition: all 0.3s ease;
+  border: 1px solid #e3e8ea;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+
+.stepCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  border-color: var(--ifm-color-primary);
+}
+
+.stepNumber {
+  position: absolute;
+  top: -12px;
+  right: 2rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.stepCard h3 {
+  color: var(--ifm-color-secondary);
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+
+.stepCard p {
+  color: var(--ifm-color-secondary);
+  opacity: 0.8;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.stepLink {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.stepLink:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration: none;
+  transform: translateX(4px);
+}
+
+/* Document Categories Section */
+.categoriesSection {
+  padding: 5rem 0;
+  background: white;
+}
+
+.categoryCard {
+  background: white;
+  border: 1px solid #e3e8ea;
+  border-radius: 12px;
+  padding: 2rem 1.5rem;
+  height: 100%;
+  text-align: center;
+  transition: all 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+.categoryCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(217, 35, 45, 0.1);
+  border-color: var(--ifm-color-primary);
+}
+
+.categoryIcon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.categoryCard h3 {
+  color: var(--ifm-color-secondary);
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.categoryCard p {
+  color: var(--ifm-color-secondary);
+  opacity: 0.8;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.categoryLink {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.categoryLink:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration: none;
+  transform: translateX(4px);
+}
+
+/* Important Notice Section */
+.noticeSection {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.noticeCard {
+  background: white;
+  border-radius: 12px;
+  padding: 2.5rem;
+  border-left: 4px solid var(--ifm-color-primary);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+  margin-bottom: 3rem;
+}
+
+.noticeHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.noticeIcon {
+  font-size: 1.5rem;
+}
+
+.noticeHeader h3 {
+  color: var(--ifm-color-primary);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.noticeContent p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--ifm-color-secondary);
+  margin-bottom: 1rem;
+}
+
+.noticeContent p:last-child {
+  margin-bottom: 0;
+}
+
+/* Signature */
+.signature {
+  text-align: center;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  border: 1px solid #e3e8ea;
+}
+
+.signature p {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.signature p:last-child {
+  margin-bottom: 0;
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 996px) {
+  .heroTitle {
+    font-size: 2.8rem;
+  }
+  
+  .heroSubtitle {
+    font-size: 1.1rem;
+  }
+  
+  .heroButtons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .quickStats {
+    gap: 2rem;
+  }
+  
+  .stat {
+    min-width: 100px;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .heroBanner {
+    padding: 3rem 0 4rem 0;
+  }
+  
+  .heroTitle {
+    font-size: 2.2rem;
+  }
+  
+  .heroSubtitle {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .heroLogo {
+    height: 50px;
+  }
+  
+  .primaryButton,
+  .secondaryButton {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+  
+  .quickStats {
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .statNumber {
+    font-size: 2rem;
+  }
+  
+  .welcomeSection,
+  .getStartedSection,
+  .categoriesSection,
+  .noticeSection {
+    padding: 3rem 0;
+  }
+  
+  .welcomeHeader h2 {
+    font-size: 2rem;
+  }
+  
+  .welcomeDescription {
+    font-size: 1.1rem;
+  }
+  
+  .sectionTitle {
+    font-size: 1.8rem;
+  }
+  
+  .stepCard,
+  .categoryCard {
+    padding: 1.5rem;
+  }
+  
+  .noticeCard {
+    padding: 2rem;
+  }
+  
+  .announcementBar {
+    font-size: 0.85rem;
+    padding: 0.75rem 0;
+  }
+}
+
+/* Animation for better UX */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.stepCard,
+.categoryCard {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.stepCard:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.stepCard:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.categoryCard:nth-child(1) {
+  animation-delay: 0.1s;
+}
+
+.categoryCard:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.categoryCard:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+/* Print styles */
+@media print {
+  .announcementBar,
+  .heroBackground {
+    display: none;
+  }
+  
+  .heroBanner {
+    background: white;
+    padding: 2rem 0;
+  }
+  
+  .stepCard,
+  .categoryCard,
+  .noticeCard {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+}
