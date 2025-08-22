@@ -1,14 +1,15 @@
 # Bản Thảo
 
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
 Độc lập - Tự do - Hạnh phúc
 
 ---
 
-QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ
+### QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ (PHIÊN BẢN 2.0)
 CÔNG TY CỔ PHẦN 1CAR GARA
 
-*(Ban hành kèm theo Quyết định số 01/QĐ-HĐQT/2025 ngày 08 tháng 08 năm 2025 của Chủ tịch Hội đồng quản trị Công ty Cổ phần 1CAR Gara)*
+*(Ban hành kèm theo Quyết định số [●]/QĐ-HĐQT/2025 ngày [●] tháng [●] năm 2025 của Chủ tịch Hội đồng quản trị Công ty Cổ phần 1CAR Gara)*
 
 ---
 
@@ -17,14 +18,23 @@ CÔNG TY CỔ PHẦN 1CAR GARA
 Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 1.  Phạm vi điều chỉnh: Quy chế này quy định về cơ cấu tổ chức, nguyên tắc hoạt động, quyền hạn, nghĩa vụ, chế độ làm việc của Hội đồng quản trị (HĐQT), các thành viên HĐQT và các Tiểu ban chuyên môn thuộc HĐQT của Công ty Cổ phần 1CAR Gara (sau đây gọi là "Công ty").
 2.  Căn cứ pháp lý: Quy chế được xây dựng trên cơ sở tuân thủ nghiêm ngặt các quy định của:
+
     a) Luật Doanh nghiệp số 59/2020/QH14;
+
     b) Luật Thương mại số 36/2005/QH11, đặc biệt các quy định về nhượng quyền thương mại;
+
     c) Điều lệ Công ty Cổ phần 1CAR Gara;
+
     d) Các văn bản pháp luật khác có liên quan.
+
 3.  Đối tượng áp dụng: Quy chế này áp dụng bắt buộc đối với:
+
     a) Toàn thể thành viên HĐQT;
+
     b) Các Tiểu ban chuyên môn trực thuộc HĐQT;
+
     c) Ban điều hành và các cấp quản lý của Công ty;
+
     d) Các cá nhân, tổ chức khác có liên quan trong quá trình thực thi các nghị quyết, quyết định của HĐQT.
 
 Điều 2. Nguyên tắc hoạt động
@@ -36,9 +46,9 @@ CÔNG TY CỔ PHẦN 1CAR GARA
 
 Điều 3. Giải thích thuật ngữ
 Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
-1.  Công ty hoặc 1CAR: Là Công ty Cổ phần 1CAR Gara.
+1.  Công ty hoặc 1CAR Gara: Là Công ty Cổ phần 1CAR Gara.
 2.  HĐQT: Là Hội đồng quản trị của Công ty.
-3.  Mạng lưới 1CAR: Là toàn bộ hệ thống các cơ sở kinh doanh dịch vụ ô tô hoạt động dưới thương hiệu 1CAR, bao gồm các cơ sở do Công ty sở hữu trực tiếp và các cơ sở của đối tác nhượng quyền.
+3.  Mạng lưới 1CAR Gara: Là toàn bộ hệ thống các cơ sở kinh doanh dịch vụ ô tô hoạt động dưới thương hiệu 1CAR Gara, bao gồm các cơ sở do Công ty sở hữu trực tiếp và các cơ sở của đối tác nhượng quyền.
 4.  Người quản lý doanh nghiệp: Bao gồm Chủ tịch HĐQT, thành viên HĐQT, thành viên Ban Kiểm soát, Tổng Giám đốc, các Phó Tổng Giám đốc và Kế toán trưởng.
 5.  Thành viên độc lập HĐQT: Là thành viên HĐQT đáp ứng đầy đủ các tiêu chuẩn về tính độc lập theo quy định tại Khoản 2 Điều 155 Luật Doanh nghiệp 2020.
 6.  Đối tác nhượng quyền: Là tổ chức, cá nhân ký kết hợp đồng nhượng quyền thương mại với Công ty để vận hành cơ sở dịch vụ ô tô theo tiêu chuẩn và thương hiệu 1CAR.
@@ -49,8 +59,11 @@ Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
 Điều 4. Quyền của thành viên Hội đồng quản trị
 1.  Quyền tiếp cận thông tin: Được cung cấp đầy đủ, chính xác và kịp thời mọi thông tin, tài liệu về tình hình tài chính, hoạt động kinh doanh của Công ty và toàn bộ Mạng lưới 1CAR để thực hiện nhiệm vụ. Có quyền yêu cầu Ban điều hành và các phòng ban cung cấp báo cáo, số liệu cần thiết.
 2.  Quyền tham gia quản trị:
+
     a) Đề xuất các vấn đề đưa vào chương trình nghị sự cuộc họp HĐQT.
+
     b) Tham gia thảo luận, chất vấn và biểu quyết một cách độc lập, bình đẳng đối với tất cả các vấn đề thuộc thẩm quyền của HĐQT.
+
 3.  Quyền được hỗ trợ: Được Công ty cung cấp các nguồn lực cần thiết (chi phí đi lại, ăn ở, tài liệu, dịch vụ tư vấn chuyên môn) để thực hiện nhiệm vụ một cách hiệu quả.
 
 Điều 5. Nghĩa vụ của thành viên Hội đồng quản trị
@@ -61,33 +74,50 @@ Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
 
 Điều 6. Cơ cấu và số lượng thành viên
 1.  Số lượng và cơ cấu: HĐQT có 05 (năm) thành viên. Cơ cấu HĐQT đảm bảo sự cân bằng giữa vai trò quản trị và điều hành, bao gồm:
+
     a) 01 Chủ tịch HĐQT (thành viên không điều hành);
+
     b) 01 thành viên điều hành (kiêm nhiệm Tổng Giám đốc);
-    c) 02 thành viên không điều hành;
-    d) 01 thành viên độc lập.
-2.  Nhiệm kỳ: Nhiệm kỳ của mỗi thành viên HĐQT là 05 (năm) năm và có thể được bầu lại không hạn chế số nhiệm kỳ. Riêng thành viên độc lập HĐQT không được bầu lại quá 02 (hai) nhiệm kỳ liên tiếp.
+
+    c) 04 thành viên không điều hành;
+    
+2.  Nhiệm kỳ: Nhiệm kỳ của mỗi thành viên HĐQT là 05 (năm) năm và có thể được bầu lại không hạn chế số nhiệm kỳ.
 3.  Điều chỉnh cơ cấu: Tùy thuộc vào quy mô và yêu cầu quản trị trong từng giai đoạn, HĐQT có thể trình ĐHĐCĐ xem xét, quyết định điều chỉnh số lượng thành viên trong khoảng từ 05 đến 07 người.
 
 Điều 7. Tiêu chuẩn thành viên Hội đồng quản trị
 1.  Tiêu chuẩn chung:
+
     a) Đáp ứng đầy đủ các tiêu chuẩn và điều kiện quy định tại Điều 155 Luật Doanh nghiệp 2020.
+
     b) Có trình độ chuyên môn, kinh nghiệm thực tế trong quản trị kinh doanh hoặc trong các lĩnh vực liên quan đến hoạt động của Công ty.
+
     c) Có phẩm chất đạo đức tốt, liêm chính, có ý thức tuân thủ pháp luật.
+
 2.  Tiêu chuẩn chuyên biệt (Ưu tiên): Do đặc thù kinh doanh, các ứng viên có các tiêu chuẩn sau đây sẽ được ưu tiên:
+
     a) Có kiến thức chuyên sâu về ngành công nghiệp ô tô, dịch vụ sửa chữa, bảo dưỡng.
+
     b) Có kinh nghiệm quản lý hệ thống chuỗi, nhượng quyền thương mại.
+
     c) Có hiểu biết về công nghệ, chuyển đổi số và quản lý chuỗi cung ứng.
+
 3.  Tiêu chuẩn thành viên độc lập: Ngoài các tiêu chuẩn chung, thành viên độc lập phải đáp ứng các điều kiện về tính độc lập theo quy định tại Khoản 2, Điều 155 Luật Doanh nghiệp 2020 và các quy định liên quan, đảm bảo khả năng đưa ra ý kiến khách quan, không bị chi phối.
 
 Điều 8. Chủ tịch Hội đồng quản trị
 1.  Bầu cử và miễn nhiệm: Chủ tịch HĐQT do HĐQT bầu, miễn nhiệm, bãi nhiệm trong số các thành viên HĐQT theo nguyên tắc đa số.
 2.  Nguyên tắc tách bạch: Chủ tịch HĐQT không được kiêm nhiệm chức danh Tổng Giám đốc để đảm bảo sự tách bạch rõ ràng giữa vai trò quản trị (định hướng, giám sát) và vai trò điều hành (thực thi).
 3.  Quyền và nghĩa vụ:
+
     a) Lập chương trình, kế hoạch hoạt động của HĐQT.
+
     b) Chuẩn bị chương trình, nội dung, tài liệu; triệu tập, chủ trì và làm chủ tọa cuộc họp HĐQT và ĐHĐCĐ.
+
     c) Tổ chức việc thông qua nghị quyết, quyết định của HĐQT; ký các nghị quyết, quyết định này.
+
     d) Giám sát quá trình tổ chức thực hiện các nghị quyết, quyết định của HĐQT và nghị quyết của ĐHĐCĐ.
+
     e) Duy trì mối quan hệ công tác hiệu quả giữa HĐQT, Ban điều hành, Ban Kiểm soát và các cổ đông.
+
 
 ### CHƯƠNG III: HỘI ĐỒNG QUẢN TRỊ
 
@@ -104,19 +134,67 @@ Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
 
 Điều 11. Thẩm quyền quyết định giao dịch, đầu tư và các hợp đồng quan trọng
 1.  HĐQT có thẩm quyền quyết định các hợp đồng, giao dịch sau đây mà không cần phải có sự chấp thuận của ĐHĐCĐ:
+
     a) Hợp đồng, giao dịch đầu tư hoặc bán tài sản có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất.
+
     b) Tất cả các hợp đồng nhượng quyền thương mại ký kết với đối tác mới, không phân biệt giá trị.
+
     c) Các hợp đồng mua sắm trang thiết bị kỹ thuật chuyên dụng, công nghệ lõi phục vụ cho toàn Mạng lưới 1CAR có giá trị theo ngưỡng tại điểm a Khoản này.
+
     d) Hợp đồng, giao dịch vay, cho vay, bán tài sản có giá trị lớn hơn 10% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất.
+
     e) Các hợp đồng và giao dịch với người có liên quan theo quy định của pháp luật và Điều lệ Công ty.
+
 2.  Các hợp đồng và giao dịch có giá trị từ 35% tổng giá trị tài sản trở lên phải được ĐHĐCĐ chấp thuận.
+3.  Nguyên tắc xác định thẩm quyền đối với các giao dịch có liên quan:
+
+    a) Khi xem xét thẩm quyền phê duyệt, giá trị của một giao dịch phải được xác định là tổng giá trị của tất cả các hợp đồng, giao dịch có liên quan với nhau.
+
+    b) Các giao dịch được xem là có liên quan khi chúng:
+
+        i. Cùng thuộc một dự án đầu tư, một kế hoạch mua sắm hoặc bán tài sản;
+
+        ii. Được thực hiện với cùng một đối tác hoặc nhóm đối tác có liên quan;
+
+        iii. Được thực hiện trong cùng một quý hoặc hai quý liên tiếp của năm tài chính;
+
+        iv. Phục vụ một mục đích chung không thể tách rời.
+
+
+    c) Ban điều hành, khi trình HĐQT phê duyệt một giao dịch, phải có văn bản cam kết và giải trình rõ giao dịch này không phải là một phần của một chuỗi giao dịch bị chia nhỏ nhằm mục đích lách thẩm quyền. Tiểu ban Kiểm toán và Quản lý Rủi ro có trách nhiệm hậu kiểm việc tuân thủ quy định này.
 
 Điều 12. Cơ chế giám sát và kiểm tra mạng lưới nhượng quyền
 1.  Quyền giám sát toàn diện: HĐQT thực hiện quyền giám sát tối cao đối với toàn bộ Mạng lưới 1CAR nhằm đảm bảo tính tuân thủ, sự thống nhất về chất lượng dịch vụ và bảo vệ uy tín thương hiệu.
-2.  Hệ thống kiểm tra: HĐQT phê duyệt và chỉ đạo thực hiện hệ thống kiểm tra đối với các đối tác nhượng quyền, bao gồm:
-    a) Kiểm tra định kỳ: Thực hiện theo lịch trình (hàng quý/nửa năm) để đánh giá toàn diện việc tuân thủ các tiêu chuẩn về kỹ thuật, dịch vụ, tài chính, nhân sự và hình ảnh thương hiệu.
-    b) Kiểm tra đột xuất: Tiến hành khi có dấu hiệu vi phạm, khiếu nại nghiêm trọng từ khách hàng, hoặc khi có rủi ro tiềm tàng ảnh hưởng đến thương hiệu.
-3.  Thẩm quyền và Quy trình: HĐQT ủy quyền cho một bộ phận chuyên trách hoặc đoàn kiểm tra để thực hiện. Đoàn kiểm tra có quyền tiếp cận hồ sơ, tài liệu, cơ sở vật chất tại địa điểm của đối tác nhượng quyền. Kết quả kiểm tra phải được báo cáo trực tiếp cho HĐQT.
+2.  Hệ thống kiểm tra và tiêu chí đánh giá:
+
+    a) HĐQT ban hành và công khai trong nội bộ mạng lưới một "Bộ Tiêu chí Đánh giá Tuân thủ Nhượng quyền" chi tiết. Bộ tiêu chí này là phụ lục không thể tách rời của hợp đồng nhượng quyền, bao gồm các chỉ số đo lường cụ thể về:
+
+        i. Chất lượng dịch vụ và quy trình kỹ thuật.
+
+        ii. Tiêu chuẩn nhận diện thương hiệu.
+
+        iii. Yêu cầu về tài chính và báo cáo.
+
+        iv. Năng lực nhân sự và đào tạo.
+
+    b) Việc kiểm tra (định kỳ và đột xuất) phải được thực hiện dựa trên Bộ Tiêu chí này để đảm bảo tính nhất quán.
+
+3.  Thẩm quyền và Quy trình kiểm tra khách quan:
+
+    a) HĐQT ủy quyền cho Đoàn Kiểm tra Nội bộ thực hiện giám sát. Thành phần Đoàn Kiểm tra phải bao gồm ít nhất một thành viên từ Tiểu ban Kiểm toán và Quản lý Rủi ro hoặc một bộ phận độc lập khác không có lợi ích trực tiếp từ việc phát triển mạng lưới.
+
+    b) Quy trình kiểm tra phải tuân thủ các bước sau:
+
+        i. Thông báo: Gửi thông báo chính thức về lịch và nội dung kiểm tra định kỳ cho đối tác trước tối thiểu 07 ngày làm việc.
+
+        ii. Thực hiện: Tiến hành kiểm tra tại cơ sở theo đúng Bộ Tiêu chí đã ban hành.
+
+        iii. Báo cáo sơ bộ: Lập biên bản kiểm tra tại chỗ, ghi nhận các điểm đạt và chưa đạt, có xác nhận của đại diện đối tác.
+
+        iv. Báo cáo chính thức và Cơ hội giải trình: Gửi báo cáo kiểm tra chi tiết cho đối tác trong vòng 05 ngày làm việc. Đối tác có 05 ngày làm việc tiếp theo để gửi văn bản phản hồi, giải trình (nếu có).
+
+        v. Báo cáo HĐQT: Đoàn Kiểm tra tổng hợp kết quả và ý kiến giải trình của đối tác để báo cáo HĐQT xem xét, ra quyết định.
+
 4.  Biện pháp xử lý: Dựa trên kết quả kiểm tra, HĐQT quyết định các biện pháp xử lý phù hợp, từ yêu cầu khắc phục, cảnh cáo bằng văn bản, áp dụng chế tài tài chính, đến chấm dứt hợp đồng nhượng quyền trong trường hợp vi phạm nghiêm trọng.
 
 Điều 13. Nghĩa vụ của Hội đồng quản trị
@@ -141,7 +219,14 @@ Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
 1.  Điều kiện hợp lệ: Cuộc họp được tiến hành khi có từ 3/4 tổng số thành viên trở lên tham dự.
 2.  Nguyên tắc biểu quyết: Mỗi thành viên có một phiếu biểu quyết. Biểu quyết được thực hiện công khai, trừ trường hợp HĐQT quyết định bỏ phiếu kín. Thành viên không được ủy quyền cho người khác biểu quyết thay mình.
 3.  Thông qua nghị quyết: Nghị quyết, quyết định của HĐQT được thông qua nếu được đa số thành viên dự họp tán thành. Trường hợp số phiếu ngang nhau, quyết định cuối cùng thuộc về phía có ý kiến của Chủ tịch HĐQT.
-4.  Xử lý xung đột lợi ích: Thành viên có lợi ích liên quan đến nội dung biểu quyết không được tham gia biểu quyết về vấn đề đó.
+4.  Xử lý xung đột lợi ích trong cuộc họp:
+
+    a) Thành viên HĐQT có nghĩa vụ phải chủ động công bố một cách rõ ràng, đầy đủ về bất kỳ lợi ích nào của mình hoặc của người có liên quan của mình mâu thuẫn hoặc có khả năng mâu thuẫn với lợi ích của Công ty ngay khi vấn đề liên quan được nêu ra trong chương trình nghị sự. Việc công bố này phải được ghi nhận chi tiết trong biên bản họp.
+
+    b) Khi HĐQT thảo luận và biểu quyết về vấn đề mà một thành viên có xung đột lợi ích, thành viên đó phải tạm thời rời khỏi phòng họp trong suốt quá trình thảo luận và biểu quyết về vấn đề đó.
+
+    c) Phiếu biểu quyết của thành viên vi phạm quy định tại điểm b Khoản này sẽ không có giá trị.
+
 
 Điều 17. Biên bản và lưu trữ tài liệu
 1.  Tất cả các cuộc họp HĐQT đều phải được ghi vào biên bản và có thể được ghi âm, ghi hình.
@@ -154,24 +239,45 @@ Trong Quy chế này, các thuật ngữ dưới đây được hiểu như sau:
 Điều 18. Tiểu ban Chiến lược và Phát triển
 1.  Thành phần: Gồm 03 thành viên, do Chủ tịch HĐQT làm Trưởng ban.
 2.  Chức năng:
+
     a) Nghiên cứu, phân tích xu hướng thị trường, đối thủ cạnh tranh và đề xuất các chiến lược phát triển dài hạn cho HĐQT.
+
     b) Đánh giá các cơ hội đầu tư, mua bán, sáp nhập (M&A) và các dự án mở rộng lớn.
+
     c) Tham mưu về chiến lược phát triển và tối ưu hóa Mạng lưới 1CAR.
+
 
 Điều 19. Tiểu ban Kiểm toán và Quản lý Rủi ro
 1.  Thành phần: Gồm 03 thành viên, do thành viên độc lập HĐQT làm Trưởng ban. Thành viên không bao gồm thành viên điều hành.
 2.  Chức năng:
+
     a) Giám sát tính trung thực của báo cáo tài chính và quá trình công bố thông tin.
+
     b) Đề xuất đơn vị kiểm toán độc lập và xem xét các vấn đề liên quan đến kiểm toán.
+
     c) Rà soát, đánh giá hiệu quả của hệ thống kiểm soát nội bộ và hệ thống quản lý rủi ro của Công ty.
+
     d) Báo cáo trực tiếp cho HĐQT về các phát hiện và kiến nghị.
+
 
 Điều 20. Tiểu ban Nhân sự và Lương thưởng
 1.  Thành phần: Gồm 03 thành viên, không bao gồm Tổng Giám đốc.
 2.  Chức năng:
-    a) Đề xuất chính sách tuyển dụng, bổ nhiệm và kế hoạch kế nhiệm đối với các chức danh thuộc thẩm quyền của HĐQT.
+
+    a) Đề xuất chính sách tuyển dụng, bổ nhiệm và xây dựng Kế hoạch kế nhiệm toàn diện cho các chức danh quản lý cấp cao, bao gồm:
+
+        i. Tổng Giám đốc và các chức danh quản lý điều hành khác thuộc thẩm quyền bổ nhiệm của HĐQT.
+
+        ii. Chủ tịch Hội đồng quản trị.
+
+        iii. Trưởng các Tiểu ban chuyên môn, đặc biệt là Trưởng Tiểu ban Kiểm toán và Quản lý Rủi ro.
+
     b) Xây dựng và trình HĐQT phê duyệt chính sách lương, thưởng, đãi ngộ đối với thành viên HĐQT, thành viên Ban Kiểm soát và Ban điều hành.
+
     c) Xây dựng hệ thống tiêu chí (KPIs) và thực hiện đánh giá hiệu quả làm việc hàng năm của Ban điều hành.
+
+    d) Kế hoạch kế nhiệm phải được rà soát, cập nhật hàng năm và phải bao gồm các phương án cho cả tình huống khẩn cấp (bổ nhiệm tạm thời) và phát triển dài hạn (đào tạo, bồi dưỡng ứng viên tiềm năng).
+    
 
 ### CHƯƠNG VI: BÁO CÁO VÀ MINH BẠCH THÔNG TIN
 

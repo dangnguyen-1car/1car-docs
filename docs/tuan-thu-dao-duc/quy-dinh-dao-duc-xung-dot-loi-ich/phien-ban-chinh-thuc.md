@@ -1,3 +1,3 @@
-﻿# PhiÃªn Báº£n ChÃ­nh Thá»©c
+﻿# Phiên bản chính thức
 
-Ná»™i dung Ä‘ang Ä‘Æ°á»£c cáº­p nháº­t.
+Nội dung đang được cập nhật.
