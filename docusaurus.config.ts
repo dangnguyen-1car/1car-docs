@@ -94,7 +94,7 @@ const config: Config = {
           items: [
             {
               label: 'Vận hành Chuyên môn',
-              to: '/docs/van-hanh-chuyen-mon/quy-che-tai-chinh-dau-tu/ban-thao',
+              to: '/docs/van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/ban-thao',
             },
             {
               label: 'Tuân thủ và Đạo đức',
