@@ -1,12 +1,11 @@
 # Bản Thảo
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 Độc lập - Tự do - Hạnh phúc
 
 ---
 
-### QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ (PHIÊN BẢN 2.0)
+### QUY CHẾ HOẠT ĐỘNG CỦA HỘI ĐỒNG QUẢN TRỊ
 CÔNG TY CỔ PHẦN 1CAR GARA
 
 *(Ban hành kèm theo Quyết định số [●]/QĐ-HĐQT/2025 ngày [●] tháng [●] năm 2025 của Chủ tịch Hội đồng quản trị Công ty Cổ phần 1CAR Gara)*

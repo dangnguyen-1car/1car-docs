@@ -9,7 +9,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '01. Pháp lý & Cổ đông',
+      label: '01. PHÁP LÝ & CỔ ĐÔNG',
       collapsed: false,
       items: [
         {
@@ -30,11 +30,19 @@ const sidebars: SidebarsConfig = {
             'phap-ly-co-dong/quy-che-cong-bo-thong-tin/phien-ban-chinh-thuc',
           ],
         },
+        {
+          type: 'category',
+          label: 'Quy chế Hoạt động của Ban Kiểm soát',
+          items: [
+            'phap-ly-co-dong/quy-che-hoat-dong-cua-ban-kiem-soat/ban-thao',
+            'phap-ly-co-dong/quy-che-hoat-dong-cua-ban-kiem-soat/phien-ban-chinh-thuc',
+          ],
+        },
       ],
     },
     {
       type: 'category',
-      label: '02. Quản trị Cấp cao',
+      label: '02. QUẢN TRỊ CẤP CA0',
       collapsed: false,
       items: [
         {
@@ -60,41 +68,57 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '03. Quản trị Nội bộ',
+      label: '03. QUẢN TRỊ NỘI BỘ',
       collapsed: true,
       items: [
         {
           type: 'category',
-          label: 'Quy chế Quản trị Nội bộ',
+          label: 'Quy chế Kiểm soát Nội bộ',
           items: [
-            'quan-tri-noi-bo/quy-che-quan-tri-noi-bo/ban-thao',
-            'quan-tri-noi-bo/quy-che-quan-tri-noi-bo/phien-ban-chinh-thuc',
-            'quan-tri-noi-bo/quy-che-quan-tri-noi-bo/ma-tran-phan-quyen-doa',
+            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ban-thao',
+            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/phien-ban-chinh-thuc',
+            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ma-tran-phan-quyen-doa',
           ],
         },
         {
           type: 'category',
-          label: 'Quy chế Quản lý Rủi ro',
+          label: 'Quy chế Quản trị Rủi ro',
           items: [
-            'quan-tri-noi-bo/quy-che-quan-ly-rui-ro/ban-thao',
-            'quan-tri-noi-bo/quy-che-quan-ly-rui-ro/phien-ban-chinh-thuc',
-            'quan-tri-noi-bo/quy-che-quan-ly-rui-ro/danh-muc-rui-ro',
+            'quan-tri-noi-bo/quy-che-quan-tri-rui-ro/ban-thao',
+            'quan-tri-noi-bo/quy-che-quan-tri-rui-ro/phien-ban-chinh-thuc',
+            'quan-tri-noi-bo/quy-che-quan-tri-rui-ro/danh-muc-rui-ro',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Quy chế Mua sắm và Quản lý Nhà cung cấp',
+          items: [
+            'quan-tri-noi-bo/quy-che-mua-sam-quan-ly-nha-cung-cap/ban-thao',
+            'quan-tri-noi-bo/quy-che-mua-sam-quan-ly-nha-cung-cap/phien-ban-chinh-thuc',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Quy chế Hợp đồng',
+          items: [
+            'quan-tri-noi-bo/quy-che-hop-dong/ban-thao',
+            'quan-tri-noi-bo/quy-che-hop-dong/phien-ban-chinh-thuc',
           ],
         },
       ],
     },
     {
       type: 'category',
-      label: '04. Vận hành Chuyên môn',
+      label: '04. VẬN HÀNH CHUYÊN MÔN',
       collapsed: true,
       items: [
         {
           type: 'category',
-          label: 'Quy chế Tài chính & Đầu tư',
+          label: 'Quy chế Quản trị Tài chính',
           items: [
-            'van-hanh-chuyen-mon/quy-che-tai-chinh-dau-tu/ban-thao',
-            'van-hanh-chuyen-mon/quy-che-tai-chinh-dau-tu/phien-ban-chinh-thuc',
-            'van-hanh-chuyen-mon/quy-che-tai-chinh-dau-tu/bieu-mau-tham-dinh-du-an',
+            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/ban-thao',
+            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/phien-ban-chinh-thuc',
+            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/bieu-mau-tham-dinh-du-an',
           ],
         },
         {
@@ -120,7 +144,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '05. Tuân thủ và Đạo đức',
+      label: '05. TUÂN THỦ & ĐẠO ĐỨC',
       collapsed: true,
       items: [
         {
@@ -144,7 +168,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '06. Triển khai và Công cụ',
+      label: '06. TRIỂN KHAI & CÔNG CỤ',
       collapsed: true,
       items: [
         'trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che',

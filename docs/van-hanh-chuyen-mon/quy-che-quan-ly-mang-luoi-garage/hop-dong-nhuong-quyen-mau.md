@@ -1,3 +1,3 @@
-﻿# Há»£p Äá»“ng NhÆ°á»£ng Quyá»n Máº«u
+﻿# Hợp đồng nhượng quyền mẫu
 
-Ná»™i dung Ä‘ang Ä‘Æ°á»£c cáº­p nháº­t.
+Nội dung đang được cập nhật.

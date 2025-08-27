@@ -1,7 +1,6 @@
 # Bản Thảo 
 
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 Độc lập – Tự do – Hạnh phúc
 
 
@@ -10,7 +9,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 ---
 
-### CĂN CỨ PHÁP LÝ
+## CĂN CỨ PHÁP LÝ
 
 - *Luật Doanh nghiệp số 59/2020/QH14 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 17 tháng 6 năm 2020;*
 - *Luật Thương mại số 36/2005/QH11 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 14 tháng 6 năm 2005;*
@@ -21,9 +20,9 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 ---
 
-### CHƯƠNG I. QUY ĐỊNH CHUNG
+## CHƯƠNG I. QUY ĐỊNH CHUNG
 
-Điều 1. Tên, Trụ sở và Con dấu
+### Điều 1. Tên, Trụ sở và Con dấu
 1.  Tên Công ty:
     - Tên công ty bằng tiếng Việt: CÔNG TY CỔ PHẦN 1CAR GARA
     - Tên công ty bằng tiếng Anh: 1CAR GARA JOINT STOCK COMPANY
@@ -33,7 +32,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
     - Công ty có quyền thành lập chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại các địa điểm khác trong lãnh thổ Việt Nam và ở nước ngoài theo quyết định của Hội đồng Quản trị và tuân thủ các quy định của pháp luật hiện hành.
 3.  Con dấu: Công ty có con dấu riêng theo quy định của pháp luật. Việc quản lý và sử dụng con dấu phải tuân thủ quy định của pháp luật và quyết định của Hội đồng Quản trị.
 
-Điều 2. Ngành, nghề kinh doanh
+### Điều 2. Ngành, nghề kinh doanh
 Công ty hoạt động kinh doanh trong các ngành, nghề được pháp luật cho phép. Các ngành, nghề kinh doanh chính và chiến lược của Công ty bao gồm:
 
 | STT | Tên ngành | Mã ngành | Mục tiêu chiến lược                                          |
@@ -45,18 +44,18 @@ Công ty hoạt động kinh doanh trong các ngành, nghề được pháp lu�
 | 5 | Hoạt động tư vấn quản lý | 7020 | Cung cấp dịch vụ tư vấn thiết lập và vận hành cho đối tác    |
 | 6 | Giáo dục nghề nghiệp (Chi tiết: Đào tạo kỹ thuật viên sửa chữa ô tô, cố vấn dịch vụ và quản lý garage) | 8532 | Xây dựng nguồn nhân lực chất lượng cao, đảm bảo tính đồng bộ |
 
-Điều 3. Tư cách pháp nhân và Thời hạn hoạt động
+### Điều 3. Tư cách pháp nhân và Thời hạn hoạt động
 1.  Công ty có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, có các quyền và nghĩa vụ dân sự phù hợp với ngành, nghề kinh doanh đã đăng ký, hoạt động độc lập và chịu trách nhiệm bằng toàn bộ tài sản của mình.
 2.  Thời hạn hoạt động của Công ty là không xác định, trừ khi bị giải thể hoặc phá sản theo quy định của pháp luật và Điều lệ này.
 
-### CHƯƠNG II. VỐN ĐIỀU LỆ, CỔ PHẦN
+## CHƯƠNG II. VỐN ĐIỀU LỆ, CỔ PHẦN
 
-Điều 4. Vốn điều lệ
+### Điều 4. Vốn điều lệ
 1.  Vốn điều lệ của Công ty là: `[Số tiền bằng số]` VNĐ (*Bằng chữ: [Số tiền bằng chữ] đồng*).
 2.  Vốn điều lệ của Công ty được chia thành `[Số lượng]` cổ phần phổ thông.
 3.  Mệnh giá mỗi cổ phần là 10.000 VNĐ (Mười nghìn đồng).
 
-Điều 5. Tăng, giảm vốn điều lệ
+### Điều 5. Tăng, giảm vốn điều lệ
 1.  Việc tăng, giảm vốn điều lệ được thực hiện theo quyết định của Đại hội đồng cổ đông và tuân thủ các quy định của pháp luật có liên quan.
 2.  Hội đồng Quản trị có trách nhiệm xây dựng các phương án tăng vốn thông qua chào bán cổ phần hoặc các hình thức huy động vốn hợp pháp khác để trình Đại hội đồng cổ đông phê duyệt, nhằm phục vụ các mục tiêu chiến lược sau:
 
@@ -66,11 +65,11 @@ Công ty hoạt động kinh doanh trong các ngành, nghề được pháp lu�
 
     c) Bổ sung vốn lưu động phục vụ các hoạt động mở rộng và hỗ trợ mạng lưới.
 
-Điều 6. Các loại cổ phần
+### Điều 6. Các loại cổ phần
 1.  Công ty có cổ phần phổ thông là loại cổ phần bắt buộc.
 2.  Công ty có thể phát hành các loại cổ phần ưu đãi (ưu đãi biểu quyết, ưu đãi cổ tức, ưu đãi hoàn lại) theo quy định tại Điều 116, 117, 118 của Luật Doanh nghiệp 2020. Việc phát hành, số lượng và quyền lợi cụ thể của cổ đông sở hữu cổ phần ưu đãi do Đại hội đồng cổ đông quyết định.
 
-Điều 7. Chuyển nhượng cổ phần
+### Điều 7. Chuyển nhượng cổ phần
 1.  Cổ phần được tự do chuyển nhượng, trừ các trường hợp sau:
 
     a) Trong thời hạn 03 năm kể từ ngày Công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp, cổ phần phổ thông của cổ đông sáng lập chỉ được chuyển nhượng cho các cổ đông sáng lập khác, hoặc chỉ được chuyển nhượng cho người không phải là cổ đông sáng lập nếu được sự chấp thuận của Đại hội đồng cổ đông, theo quy định tại Khoản 3 Điều 120 Luật Doanh nghiệp 2020.
@@ -78,9 +77,9 @@ Công ty hoạt động kinh doanh trong các ngành, nghề được pháp lu�
     b) Các trường hợp hạn chế chuyển nhượng khác được quy định chi tiết tại Chương IV của Điều lệ này hoặc trong giấy chứng nhận sở hữu cổ phần (nếu có).
 2.  Việc chuyển nhượng được thực hiện bằng hợp đồng hoặc giao dịch trên thị trường chứng khoán. Các thủ tục chuyển nhượng phải tuân thủ quy định của pháp luật và quy chế nội bộ của Công ty.
 
-### CHƯƠNG III. QUYỀN VÀ NGHĨA VỤ CỦA CỔ ĐÔNG
+## CHƯƠNG III. QUYỀN VÀ NGHĨA VỤ CỦA CỔ ĐÔNG
 
-Điều 8. Quyền của Cổ đông
+### Điều 8. Quyền của Cổ đông
 Cổ đông của Công ty có đầy đủ các quyền theo quy định của Luật Doanh nghiệp 2020, bao gồm:
 1.  Quyền của Cổ đông phổ thông:
 
@@ -107,7 +106,7 @@ Cổ đông của Công ty có đầy đủ các quyền theo quy định của 
 3.  Quyền của Cổ đông hoặc nhóm cổ đông sở hữu từ 10% tổng số cổ phần phổ thông trở lên: Có quyền đề cử người vào Hội đồng Quản trị và Ban Kiểm soát theo quy định tại Điều 115 Luật Doanh nghiệp 2020.
 4.  Quyền ưu tiên đặc thù: Cổ đông đáp ứng đầy đủ các tiêu chí trong Quy chế Nhượng quyền do Hội đồng Quản trị ban hành sẽ được ưu tiên xem xét để trở thành đối tác nhận quyền thương mại của Công ty.
 
-Điều 9. Nghĩa vụ của Cổ đông
+### Điều 9. Nghĩa vụ của Cổ đông
 Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
 1.  Thanh toán đầy đủ và đúng hạn số cổ phần đã cam kết mua.
 2.  Không được rút vốn đã góp bằng cổ phần phổ thông ra khỏi Công ty dưới mọi hình thức, trừ trường hợp được Công ty hoặc người khác mua lại cổ phần.
@@ -115,9 +114,9 @@ Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
 4.  Chấp hành nghị quyết, quyết định của Đại hội đồng cổ đông và Hội đồng Quản trị.
 5.  Nghĩa vụ bảo mật thông tin: Có trách nhiệm bảo mật tuyệt đối các thông tin, tài liệu nội bộ, bí mật kinh doanh, bí quyết công nghệ và các thông tin chiến lược khác của Công ty được cung cấp theo quy định, kể cả sau khi không còn là cổ đông của Công ty.
 
-### CHƯƠNG IV. THOÁI VỐN, MUA LẠI VÀ CHUYỂN NHƯỢNG CỔ PHẦN
+## CHƯƠNG IV. THOÁI VỐN, MUA LẠI VÀ CHUYỂN NHƯỢNG CỔ PHẦN
 
-Điều 10. Hạn chế Chuyển nhượng Cổ phần và Quyền Ưu tiên Mua
+### Điều 10. Hạn chế Chuyển nhượng Cổ phần và Quyền Ưu tiên Mua
 1.  Quyền Ưu tiên của Công ty (*Right of First Refusal*):
 
     a) Trước khi chuyển nhượng cổ phần của mình cho một bên thứ ba không phải là cổ đông hiện hữu của Công ty, cổ đông có ý định chuyển nhượng (“Bên Chuyển nhượng”) phải gửi một thông báo bằng văn bản (“Thông báo Chào bán”) cho Hội đồng Quản trị. Thông báo Chào bán phải nêu rõ số lượng cổ phần dự định chuyển nhượng, giá chào bán, các điều kiện và điều khoản chuyển nhượng dự kiến, và thông tin về bên dự kiến nhận chuyển nhượng.
@@ -130,12 +129,12 @@ Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
 
 2.  Các quy định về hạn chế chuyển nhượng tại Điều này không áp dụng đối với trường hợp chuyển nhượng cổ phần giữa các cổ đông sáng lập với nhau hoặc cho chính Công ty.
 
-Điều 11. Mua lại Cổ phần theo Yêu cầu của Cổ đông
+### Điều 11. Mua lại Cổ phần theo Yêu cầu của Cổ đông
 1.  Cổ đông đã biểu quyết không thông qua nghị quyết của Đại hội đồng cổ đông về việc tổ chức lại Công ty hoặc thay đổi quyền, nghĩa vụ của cổ đông quy định tại Điều lệ này có quyền yêu cầu Công ty mua lại cổ phần của mình.
 2.  Yêu cầu mua lại phải được lập thành văn bản và gửi đến Công ty trong thời hạn 10 (mười) ngày, kể từ ngày Đại hội đồng cổ đông thông qua nghị quyết về các vấn đề quy định tại khoản 1 Điều này.
 3.  Công ty có nghĩa vụ mua lại cổ phần theo yêu cầu của cổ đông quy định tại khoản 1 Điều này với giá thị trường hoặc giá được xác định theo nguyên tắc quy định tại Điều 14 của Điều lệ này trong thời hạn 90 (chín mươi) ngày, kể từ ngày nhận được yêu cầu. Trường hợp không thỏa thuận được về giá thì các bên phải thuê một tổ chức thẩm định giá để xác định. Công ty sẽ giới thiệu ít nhất 03 (ba) tổ chức thẩm định giá để cổ đông lựa chọn và lựa chọn của cổ đông là quyết định cuối cùng.
 
-Điều 12. Mua lại Cổ phần theo Quyết định của Công ty
+### Điều 12. Mua lại Cổ phần theo Quyết định của Công ty
 1.  Công ty có quyền mua lại không quá 30% tổng số cổ phần phổ thông đã bán, một phần hoặc toàn bộ cổ phần ưu đãi cổ tức đã bán theo quyết định của mình.
 2.  Thẩm quyền quyết định:
 
@@ -151,7 +150,7 @@ Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
 
     c) Cổ đông chấp thuận bán lại cổ phần phải gửi văn bản chào bán đến Công ty trong thời hạn 30 (ba mươi) ngày kể từ ngày Công ty ra thông báo.
 
-Điều 13. Mua lại Cổ phần Bắt buộc
+### Điều 13. Mua lại Cổ phần Bắt buộc
 1.  Công ty có quyền, nhưng không có nghĩa vụ, thực hiện mua lại bắt buộc toàn bộ số cổ phần thuộc sở hữu của một cổ đông khi xảy ra một trong các sự kiện sau đây (“Sự kiện Kích hoạt”):
 
     a) Cổ đông là chủ sở hữu hoặc người đại diện của một garage thành viên trong hệ thống 1CAR Gara vi phạm nghiêm trọng Hợp đồng Nhượng quyền Thương mại hoặc các quy chế, chính sách khác của Công ty, dẫn đến quyết định chấm dứt Hợp đồng Nhượng quyền từ phía Công ty.
@@ -163,7 +162,7 @@ Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
 2.  Khi xảy ra một Sự kiện Kích hoạt, Hội đồng Quản trị có quyền ra quyết định về việc thực hiện mua lại bắt buộc. Giá mua lại sẽ được xác định theo quy định tại Điều 14 của Điều lệ này.
 3.  Cổ đông hoặc người thừa kế/người đại diện hợp pháp của cổ đông có nghĩa vụ hợp tác và hoàn tất các thủ tục chuyển nhượng cổ phần cho Công ty trong vòng 60 (sáu mươi) ngày kể từ ngày nhận được quyết định mua lại của Công ty.
 
-Điều 14. Nguyên tắc và Phương pháp Định giá Cổ phần
+### Điều 14. Nguyên tắc và Phương pháp Định giá Cổ phần
 1.  Giá mua lại hoặc chuyển nhượng cổ phần trong các trường hợp quy định tại Điều lệ này phải được xác định dựa trên nguyên tắc công bằng, minh bạch và phù hợp với giá trị thực của cổ phần tại thời điểm giao dịch.
 2.  Trừ khi có quy định khác, giá mua lại cổ phần được xác định theo thứ tự ưu tiên như sau:
 
@@ -174,28 +173,28 @@ Cổ đông của Công ty có các nghĩa vụ cơ bản sau đây:
     c) Chỉ định: Trường hợp không thống nhất được tổ chức thẩm định giá trong vòng 15 (mười lăm) ngày, Chủ tịch Hội đồng Quản trị sẽ có quyền chỉ định một tổ chức thẩm định giá từ danh sách các công ty kiểm toán, thẩm định giá uy tín đang hoạt động hợp pháp tại Việt Nam. Quyết định của tổ chức thẩm định giá này có giá trị ràng buộc các bên. Chi phí thẩm định giá sẽ do Công ty và cổ đông chuyển nhượng cùng chi trả theo tỷ lệ 50/50, trừ khi có thỏa thuận khác.
 
 
-Điều 15. Quyền Cùng Bán (*Tag-Along Right*) và Quyền Kéo theo (*Drag-Along Right*)
+### Điều 15. Quyền Cùng Bán (*Tag-Along Right*) và Quyền Kéo theo (*Drag-Along Right*)
 1.  Quyền Cùng Bán: Trong trường hợp một (hoặc một nhóm) cổ đông sở hữu từ 51% tổng số cổ phần có quyền biểu quyết trở lên (“Bên Bán Đa số”) có ý định chuyển nhượng toàn bộ hoặc phần lớn cổ phần của mình cho một bên thứ ba, Bên Bán Đa số phải đảm bảo rằng bên nhận chuyển nhượng sẽ đưa ra đề nghị mua lại cổ phần của các cổ đông còn lại với cùng một mức giá và các điều kiện, điều khoản tương tự.
 2.  Quyền Kéo theo: Nếu Bên Bán Đa số chấp thuận một đề nghị chào mua thiện chí từ một bên thứ ba để mua lại toàn bộ cổ phần của Công ty, Bên Bán Đa số có quyền yêu cầu tất cả các cổ đông khác phải bán cổ phần của họ cho bên thứ ba đó với cùng một mức giá và các điều kiện, điều khoản mà Bên Bán Đa số đã chấp thuận. Cổ đông nhận được yêu cầu có nghĩa vụ tuân thủ và thực hiện các thủ tục chuyển nhượng cần thiết.
 
-Điều 16. Điều kiện Thanh toán và Xử lý Cổ phần được Mua lại
+### Điều 16. Điều kiện Thanh toán và Xử lý Cổ phần được Mua lại
 1.  Công ty chỉ được quyền thanh toán tiền mua lại cổ phần cho cổ đông nếu ngay sau khi thanh toán, Công ty vẫn bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác.
 2.  Cổ phần được mua lại theo các quy định tại Chương này được coi là cổ phần chưa bán theo quy định của Luật Doanh nghiệp. Công ty phải thực hiện thủ tục đăng ký giảm vốn điều lệ tương ứng với tổng mệnh giá các cổ phần được Công ty mua lại trong thời hạn 10 (mười) ngày kể từ ngày hoàn thành việc thanh toán, trừ trường hợp pháp luật có quy định khác.
 3.  Cổ tức sẽ không được chia cho các cổ phần đã được Công ty mua lại.
 
-Điều 17. Công bố Thông tin
+### Điều 17. Công bố Thông tin
 Công ty có nghĩa vụ công bố thông tin đầy đủ, kịp thời và chính xác tới tất cả các cổ đông về các quyết định, kế hoạch và kết quả thực hiện việc mua lại cổ phần theo quy định của pháp luật và Điều lệ này. Nội dung công bố tối thiểu bao gồm: nghị quyết của Đại hội đồng cổ đông hoặc quyết định của Hội đồng Quản trị, số lượng cổ phần mua lại, giá mua lại, danh sách cổ đông đã bán cổ phần (nếu có), và thời gian hoàn tất giao dịch.
 
-### CHƯƠNG V. CƠ CẤU TỔ CHỨC, QUẢN LÝ VÀ ĐIỀU HÀNH
+## CHƯƠNG V. CƠ CẤU TỔ CHỨC, QUẢN LÝ VÀ ĐIỀU HÀNH
 
-Điều 18. Cơ cấu tổ chức
+### Điều 18. Cơ cấu tổ chức
 Cơ cấu tổ chức quản lý của Công ty được thiết lập theo mô hình quy định tại điểm b Khoản 1 Điều 137 Luật Doanh nghiệp 2020, bao gồm:
 1.  Đại hội đồng cổ đông (ĐHĐCĐ).
 2.  Hội đồng Quản trị (HĐQT).
 3.  Tổng Giám đốc.
 4.  Ban Kiểm soát (BKS).
 
-Điều 19. Đại hội đồng cổ đông (ĐHĐCĐ)
+### Điều 19. Đại hội đồng cổ đông (ĐHĐCĐ)
 1.  Vị trí: ĐHĐCĐ là cơ quan quyết định cao nhất của Công ty, bao gồm tất cả các cổ đông có quyền biểu quyết.
 2.  Quyền và nghĩa vụ: ĐHĐCĐ có các quyền và nghĩa vụ quy định tại Điều 138 Luật Doanh nghiệp 2020.
 3.  Điều kiện tiến hành họp:
@@ -220,7 +219,7 @@ Cơ cấu tổ chức quản lý của Công ty được thiết lập theo mô 
 
     c) Nội dung thông báo mời họp: Thông báo phải bao gồm các nội dung tối thiểu sau: tên, địa chỉ trụ sở chính, mã số doanh nghiệp của Công ty; tên, địa chỉ liên lạc của cổ đông; thời gian và địa điểm họp; chương trình họp dự kiến; các tài liệu sử dụng trong cuộc họp và dự thảo nghị quyết đối với từng vấn đề trong chương trình họp.
 
-Điều 20. Hội đồng Quản trị (HĐQT)
+### Điều 20. Hội đồng Quản trị (HĐQT)
 1.  Vị trí: HĐQT là cơ quan quản lý Công ty, có toàn quyền nhân danh Công ty để quyết định các vấn đề liên quan đến mục tiêu, quyền lợi của Công ty, trừ các vấn đề thuộc thẩm quyền của ĐHĐCĐ.
 2.  Số lượng và Nhiệm kỳ: HĐQT có 06 (sáu) thành viên. Nhiệm kỳ của thành viên HĐQT là 05 năm và có thể được bầu lại không hạn chế số nhiệm kỳ.
 3.  Quyền hạn và Nhiệm vụ: Ngoài các quyền và nghĩa vụ theo Điều 153 Luật Doanh nghiệp 2020, HĐQT có các quyền hạn chiến lược sau:
@@ -237,57 +236,57 @@ Cơ cấu tổ chức quản lý của Công ty được thiết lập theo mô 
 
 4.  Cuộc họp HĐQT: HĐQT họp định kỳ mỗi quý một lần. Cuộc họp được tiến hành khi có từ 3/4 tổng số thành viên trở lên tham dự. Nghị quyết được thông qua nếu được đa số thành viên dự họp tán thành. Trường hợp số phiếu ngang nhau, quyết định cuối cùng thuộc về phía có ý kiến của Chủ tịch HĐQT.
 
-Điều 21. Chủ tịch Hội đồng Quản trị
+### Điều 21. Chủ tịch Hội đồng Quản trị
 1.  Chủ tịch HĐQT do HĐQT bầu, miễn nhiệm, bãi nhiệm trong số các thành viên HĐQT.
 2.  Chủ tịch HĐQT không kiêm nhiệm chức danh Tổng Giám đốc để đảm bảo sự tách bạch giữa vai trò quản trị chiến lược và vai trò điều hành tác nghiệp.
 3.  Chủ tịch HĐQT có các quyền và nghĩa vụ quy định tại Điều 156 Luật Doanh nghiệp 2020.
 
-Điều 22. Tổng Giám đốc
+### Điều 22. Tổng Giám đốc
 1.  Tổng Giám đốc là người điều hành công việc kinh doanh hằng ngày của Công ty; chịu sự giám sát của HĐQT và chịu trách nhiệm trước HĐQT về việc thực hiện các quyền và nghĩa vụ được giao.
 2.  Tổng Giám đốc có quyền quyết định các vấn đề trong phạm vi được quy định tại Quy chế Quản trị Nội bộ và Ma trận Phân quyền do HĐQT ban hành.
 
-Điều 23. Ban Kiểm soát (BKS)
+### Điều 23. Ban Kiểm soát (BKS)
 1.  BKS do ĐHĐCĐ bầu, có từ 03 đến 05 thành viên, nhiệm kỳ không quá 05 năm.
 2.  BKS hoạt động độc lập, có chức năng giám sát HĐQT, Tổng Giám đốc trong việc quản lý, điều hành công ty; thẩm định báo cáo tài chính và báo cáo về các rủi ro của công ty.
 3.  Quyền và nghĩa vụ của BKS tuân thủ theo Điều 170 Luật Doanh nghiệp 2020.
 
-Điều 24. Người đại diện theo pháp luật
+### Điều 24. Người đại diện theo pháp luật
 1.  Công ty có 01 (một) người đại diện theo pháp luật.
 2.  Chức danh người đại diện theo pháp luật: Tổng Giám đốc.
 3.  Quyền và nghĩa vụ của từng người đại diện theo pháp luật được phân định rõ ràng trong Quy chế Hoạt động của Hội đồng Quản trị và các quy chế liên quan, đảm bảo không có sự chồng chéo và tuân thủ Khoản 2 Điều 12 Luật Doanh nghiệp 2020.
 
-### CHƯƠNG VI. HOẠT ĐỘNG NHƯỢNG QUYỀN THƯƠNG MẠI
+## CHƯƠNG VI. HOẠT ĐỘNG NHƯỢNG QUYỀN THƯƠNG MẠI
 
-Điều 25. Nguyên tắc hoạt động nhượng quyền
+### Điều 25. Nguyên tắc hoạt động nhượng quyền
 1.  Nhượng quyền thương mại là một hoạt động kinh doanh chiến lược của Công ty, được thực hiện theo các quy định của Luật Thương mại 2005 và các văn bản hướng dẫn liên quan.
 2.  Công ty (Bên nhượng quyền) cấp phép và yêu cầu đối tác (Bên nhận quyền) vận hành cơ sở kinh doanh dịch vụ ô tô theo đúng mô hình, thương hiệu, quy trình và tiêu chuẩn của Mạng lưới 1CAR Gara.
 
-Điều 26. Thẩm quyền của Hội đồng Quản trị
+### Điều 26. Thẩm quyền của Hội đồng Quản trị
 Hội đồng Quản trị có thẩm quyền cao nhất và toàn diện đối với hoạt động nhượng quyền thương mại, bao gồm:
 1.  Ban hành và giám sát việc thực thi Quy chế Nhượng quyền Thương mại.
 2.  Phê duyệt mẫu Hợp đồng Nhượng quyền Thương mại và các điều khoản cốt lõi.
 3.  Quyết định lựa chọn, phê duyệt các đối tác nhận quyền.
 4.  Quyết định các biện pháp xử lý vi phạm, bao gồm cả việc chấm dứt Hợp đồng Nhượng quyền.
 
-### CHƯƠNG VII. NGUYÊN TẮC TÀI CHÍNH, KẾ TOÁN
+## CHƯƠNG VII. NGUYÊN TẮC TÀI CHÍNH, KẾ TOÁN
 
-Điều 27. Năm tài chính
+### Điều 27. Năm tài chính
 Năm tài chính của Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hằng năm.
 
-Điều 28. Phân phối lợi nhuận
+### Điều 28. Phân phối lợi nhuận
 Lợi nhuận ròng của Công ty sau khi đã thực hiện đầy đủ nghĩa vụ tài chính với Nhà nước và trích lập các quỹ theo quy định của pháp luật, sẽ được phân phối theo nghị quyết của ĐHĐCĐ trên cơ sở đề xuất của HĐQT. Chính sách phân phối lợi nhuận phải cân bằng giữa lợi ích của cổ đông và nhu cầu tái đầu tư, trong đó ưu tiên trích lập Quỹ Đầu tư Phát triển để phục vụ các kế hoạch mở rộng mạng lưới và phát triển mô hình kinh doanh của công ty.
 
-### CHƯƠNG VIII. GIẢI QUYẾT TRANH CHẤP VÀ SỬA ĐỔI ĐIỀU LỆ
+## CHƯƠNG VIII. GIẢI QUYẾT TRANH CHẤP VÀ SỬA ĐỔI ĐIỀU LỆ
 
-Điều 29. Giải quyết tranh chấp
+### Điều 29. Giải quyết tranh chấp
 Mọi tranh chấp phát sinh giữa Công ty với cổ đông, hoặc giữa các cổ đông với nhau liên quan đến hoạt động của Công ty, sẽ được giải quyết trước hết thông qua thương lượng, hòa giải. Trường hợp không thể hòa giải, tranh chấp sẽ được đưa ra giải quyết tại Tòa án nhân dân có thẩm quyền tại Việt Nam.
 
-Điều 30. Sửa đổi, bổ sung Điều lệ
+### Điều 30. Sửa đổi, bổ sung Điều lệ
 Việc sửa đổi, bổ sung Điều lệ này thuộc thẩm quyền của ĐHĐCĐ và phải được thông qua theo đúng trình tự, thủ tục quy định tại Điều lệ này và pháp luật hiện hành.
 
-### CHƯƠNG IX. ĐIỀU KHOẢN THI HÀNH
+## CHƯƠNG IX. ĐIỀU KHOẢN THI HÀNH
 
-Điều 31. Hiệu lực
+### Điều 31. Hiệu lực
 1.  Điều lệ này gồm 09 (chín) Chương, 31 (ba mươi mốt) Điều, đã được các cổ đông sáng lập nhất trí thông qua và có hiệu lực kể từ ngày Công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp.
 2.  Tất cả các cổ đông của Công ty, thành viên Hội đồng Quản trị, thành viên Ban Kiểm soát, Tổng Giám đốc và toàn thể người lao động trong Công ty chịu trách nhiệm thi hành đúng các quy định của Điều lệ này.
 3.  Trong trường hợp có quy định của pháp luật khác với các điều khoản trong Điều lệ này, hoặc khi có sự thay đổi của pháp luật, thì các quy định của pháp luật đó sẽ mặc nhiên được áp dụng. Hội đồng Quản trị có trách nhiệm trình ĐHĐCĐ sửa đổi, bổ sung Điều lệ cho phù hợp.

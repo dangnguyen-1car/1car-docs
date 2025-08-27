@@ -1,3 +1,3 @@
-﻿# Bá»™ TiÃªu Chuáº©n Váº­n HÃ nh (SOPs)
+﻿# Bộ tiêu chuẩn vận hành (SOPs)
 
-Ná»™i dung Ä‘ang Ä‘Æ°á»£c cáº­p nháº­t.
+Nội dung đang được cập nhật.
