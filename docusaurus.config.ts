@@ -85,7 +85,7 @@ const config: Config = {
             },
             {
               label: 'Quản trị Nội bộ',
-              to: '/docs/quan-tri-noi-bo/quy-che-quan-tri-noi-bo/ban-thao',
+              to: '/docs/quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ban-thao',
             },
           ],
         },
