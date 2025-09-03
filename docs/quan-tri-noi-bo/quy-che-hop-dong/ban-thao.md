@@ -68,7 +68,7 @@ Quy chế này được ban hành nhằm thiết lập một quy trình thống 
 4.  Tính Hệ thống và Đồng bộ: Quy trình quản lý hợp đồng phải được thực hiện đồng bộ với các quy trình khác như mua sắm, tài chính, quản lý dự án. Mọi hợp đồng đều phải được theo dõi, cập nhật trạng thái trên một hệ thống quản lý tập trung.
 
 
-### CHƯƠNG II: PHÂN LOẠI VÀ CẤU TRÚC HỢP ĐỒNG
+## CHƯƠNG II: PHÂN LOẠI VÀ CẤU TRÚC HỢP ĐỒNG
 
 ### Điều 5. Phân loại Hợp đồng
 Hợp đồng được phân loại để áp dụng các quy trình quản lý phù hợp, dựa trên các tiêu chí sau:
@@ -78,7 +78,7 @@ Hợp đồng được phân loại để áp dụng các quy trình quản lý 
 
 ### Điều 6. Yêu cầu về hình thức của Hợp đồng
 1.  Tất cả các hợp đồng, trừ những giao dịch có giá trị rất nhỏ theo quy định tại DOA, đều phải được lập thành văn bản.
-2.  Hợp đồng có thể được ký kết dưới dạng văn bản giấy hoặc dưới dạng thông điệp dữ liệu điện tử có sử dụng chữ ký số theo quy định của Luật Giao dịch điện tử và các quy định về bảo mật, lưu trữ tại Quy chế Quản lý và Sử dụng Hệ thống Công nghệ Thông tin (Mã hiệu: TKCC-03).
+2.  Hợp đồng có thể được ký kết dưới dạng văn bản giấy hoặc dưới dạng thông điệp dữ liệu điện tử có sử dụng chữ ký số theo quy định của Luật Giao dịch điện tử và các quy định về bảo mật, lưu trữ tại Quy chế Quản lý và Sử dụng Hệ thống Công nghệ Thông tin.
 
 ### Điều 7. Cấu trúc và các điều khoản bắt buộc của Hợp đồng
 Một hợp đồng tiêu chuẩn của Công ty phải bao gồm đầy đủ các điều khoản cốt lõi sau, tham chiếu theo Điều 13 Quy chế Mua sắm và Quản lý Nhà cung cấp:
@@ -100,7 +100,7 @@ Một hợp đồng tiêu chuẩn của Công ty phải bao gồm đầy đủ c
 
 ### Điều 8. Quy trình đề xuất và lựa chọn đối tác
 1.  Mọi đề xuất ký kết hợp đồng phải xuất phát từ nhu cầu thực tế và phải nằm trong kế hoạch, ngân sách đã được duyệt.
-2.  Đối với các hợp đồng mua sắm, việc lựa chọn đối tác/nhà cung cấp phải tuân thủ nghiêm ngặt các quy định về hình thức và quy trình lựa chọn tại Điều 9 và Điều 10 của Quy chế Mua sắm và Quản lý Nhà cung cấp (QT-MS-01).
+2.  Đối với các hợp đồng mua sắm, việc lựa chọn đối tác/nhà cung cấp phải tuân thủ nghiêm ngặt các quy định về hình thức và quy trình lựa chọn tại Điều 9 và Điều 10 của Quy chế Mua sắm và Quản lý Nhà cung cấp.
 3.  Đối với các loại hợp đồng khác, bộ phận đề xuất phải tiến hành thẩm định sơ bộ năng lực của đối tác trước khi trình Ban lãnh đạo.
 
 ### Điều 9. Trách nhiệm soạn thảo và đàm phán
@@ -118,12 +118,12 @@ Trước khi trình ký, mọi dự thảo hợp đồng (trừ các giao dịch
 1.  Thẩm định Kỹ thuật/Nghiệp vụ: Trưởng bộ phận chủ trì chịu trách nhiệm thẩm định, đảm bảo các điều khoản đáp ứng đúng yêu cầu chuyên môn và mục tiêu đề ra.
 2.  Thẩm định Tài chính: Phòng Tài chính - Kế toán thẩm định về tính phù hợp với ngân sách, các điều khoản thanh toán, thuế và các rủi ro tài chính.
 3.  Thẩm định Pháp lý: Phòng Pháp chế thẩm định về tính hợp pháp của các điều khoản, sự tuân thủ quy định nội bộ và các rủi ro pháp lý tiềm tàng.
-4.  Thẩm định Rủi ro (đối với các hợp đồng trọng yếu): Đối với các hợp đồng có giá trị lớn hoặc có mức độ rủi ro cao theo phân loại của Quy chế Quản trị Rủi ro (QTNB-03), dự thảo phải được gửi cho bộ phận chuyên trách Quản trị Rủi ro để đánh giá các rủi ro tiềm tàng và đề xuất các biện pháp giảm thiểu.
+4.  Thẩm định Rủi ro (đối với các hợp đồng trọng yếu): Đối với các hợp đồng có giá trị lớn hoặc có mức độ rủi ro cao theo phân loại của Quy chế Quản trị Rủi ro, dự thảo phải được gửi cho bộ phận chuyên trách Quản trị Rủi ro để đánh giá các rủi ro tiềm tàng và đề xuất các biện pháp giảm thiểu.
 
 ### Điều 11. Thẩm quyền Ký kết
 1.  Việc ký kết hợp đồng và các phụ lục kèm theo phải được thực hiện bởi người có thẩm quyền.
 2.  Thẩm quyền ký kết được quy định chi tiết, rõ ràng và bắt buộc tuân thủ theo Ma trận Phân quyền (DOA) ban hành kèm theo Quy chế Quản trị Tài chính.
-3.  Đối với các hợp đồng có giá trị lớn hoặc có tính chất chiến lược, thẩm quyền ký kết phải tuân thủ các quy định tại Điều 20.3.c Điều lệ Công ty và Điều 11.1 Quy chế Hoạt động của Hội đồng Quản trị. Đặc biệt, các Hợp đồng Nhượng quyền Thương mại phải được HĐQT phê duyệt theo Điều 26 Điều lệ và Điều 11.1.b Quy chế Hoạt động của Hội đồng Quản trị.
+3.  Đối với các hợp đồng có giá trị lớn hoặc có tính chất chiến lược, thẩm quyền ký kết phải tuân thủ các quy định tại Điều 21.3.c Điều lệ Công ty và Điều 11.1 Quy chế Hoạt động của Hội đồng Quản trị. Đặc biệt, các Hợp đồng Nhượng quyền Thương mại phải được HĐQT phê duyệt theo Điều 25 Điều lệ và Điều 11.1.b Quy chế Hoạt động của Hội đồng Quản trị.
 4.  Nghiêm cấm mọi hành vi ký kết hợp đồng vượt thẩm quyền đã được phân cấp.
 
 
@@ -177,7 +177,7 @@ Khi phát hiện đối tác vi phạm hợp đồng, bộ phận chủ trì ph�
 
 ### Điều 21. Trách nhiệm bảo mật thông tin Hợp đồng
 1.  Nội dung các điều khoản trong hợp đồng là thông tin mật của Công ty.
-2.  Toàn thể CBNV có liên quan phải tuân thủ nghiêm ngặt nghĩa vụ bảo mật thông tin theo quy định tại Điều 9.5 Điều lệ Công ty.
+2.  Toàn thể CBNV có liên quan phải tuân thủ nghiêm ngặt nghĩa vụ bảo mật thông tin.
 3.  Nghiêm cấm mọi hành vi tiết lộ thông tin hợp đồng cho bên thứ ba không có thẩm quyền.
 
 

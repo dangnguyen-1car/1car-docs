@@ -16,9 +16,9 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 
 *   *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17 tháng 6 năm 2020;*
 *   *Căn cứ Luật Kế toán số 88/2015/QH13 ngày 20 tháng 11 năm 2015 và các chuẩn mực kế toán, kiểm toán Việt Nam;*
-*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara, đặc biệt là Điều 20.3.d về quyền thành lập các tiểu ban chuyên môn của Hội đồng Quản trị;*
+*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara, đặc biệt là Điều 21.3.d về quyền thành lập các tiểu ban chuyên môn của Hội đồng Quản trị;*
 *   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị, đặc biệt là Chương V, Điều 19 quy định về việc thành lập và chức năng của Tiểu ban Kiểm toán và Quản lý Rủi ro;*
-*   *Căn cứ Quy chế Quản trị Rủi ro (Mã hiệu: QTNB-03) và Quy chế Kiểm soát Nội bộ (Mã hiệu: QTKS-01) của Công ty;*
+*   *Căn cứ Quy chế Quản trị Rủi ro và Quy chế Kiểm soát Nội bộ của Công ty;*
 *   *Căn cứ vào yêu cầu quản trị doanh nghiệp và các thông lệ quản trị công ty tốt nhất.*
 
 Hội đồng Quản trị Công ty Cổ phần 1CAR Gara ban hành Quy chế Hoạt động của Tiểu ban Kiểm toán và Quản lý Rủi ro với các nội dung chi tiết như sau:
@@ -61,7 +61,7 @@ Nhiệm kỳ của các thành viên Tiểu ban gắn liền với nhiệm kỳ 
 ### Điều 6. Tiêu chuẩn Thành viên
 1.  Ngoài các tiêu chuẩn chung của thành viên HĐQT, thành viên Tiểu ban phải đáp ứng các yêu cầu về năng lực chuyên môn sau:
 
-    a) Tất cả các thành viên phải có hiểu biết cơ bản về báo cáo tài chính và các nguyên tắc kế toán (*financially literate*).
+    a) Tất cả các thành viên phải có hiểu biết cơ bản về báo cáo tài chính và các nguyên tắc kế toán.
 
     b) Ít nhất một thành viên phải là chuyên gia tài chính, có kinh nghiệm thực tế sâu về kế toán hoặc kiểm toán, có khả năng phân tích và đánh giá các báo cáo tài chính phức tạp.
 

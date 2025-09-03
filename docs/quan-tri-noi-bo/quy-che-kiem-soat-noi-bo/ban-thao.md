@@ -89,7 +89,7 @@ Hệ thống KSNB của Công ty được xây dựng dựa trên 05 (năm) thà
     *   Thực hiện đối chiếu định kỳ giữa sổ sách kế toán và thực tế (ví dụ: kiểm kê tiền mặt, hàng tồn kho, tài sản cố định theo quy định tại Điều 12 và Điều 13 Quy chế Quản lý Tài chính), đối chiếu công nợ (theo Điều 22.3 Quy chế Quản lý Tài chính) và các thủ tục đối soát khác theo quy định.
     *   Ban Tổng Giám đốc và các cấp quản lý phải thường xuyên rà soát, đánh giá kết quả hoạt động so với kế hoạch, ngân sách và các chỉ số KPIs đã được phê duyệt.
 3.  Kiểm soát quá trình xử lý thông tin: Đảm bảo tính chính xác, đầy đủ và bảo mật của dữ liệu trên các hệ thống công nghệ thông tin (IGMS, CRM, ERP). Quyền truy cập vào hệ thống phải được phân quyền chặt chẽ.
-4.  Kiểm soát vật chất: Thực hiện các biện pháp bảo vệ đối với các tài sản vật chất có giá trị như kho phụ tùng, thiết bị chẩn đoán, tiền mặt thông qua camera an ninh, khóa, thẻ từ và các quy trình kiểm soát ra vào.
+4.  Kiểm soát vật chất: Thực hiện các biện pháp bảo vệ đối với các tài sản vật chất có giá trị như kho phụ tùng, thiết bị chẩn đoán, thiết bị điện tử, tiền mặt thông qua camera an ninh, khóa, thẻ từ và các quy trình kiểm soát ra vào.
 5.  Phân chia trách nhiệm (Nguyên tắc Bất kiêm nhiệm): Phải tách biệt rõ ràng trách nhiệm của các cá nhân khác nhau trong một chu trình nghiệp vụ, đặc biệt là giữa các vai trò: khởi tạo giao dịch, phê duyệt giao dịch, thực hiện/ghi nhận giao dịch và quản lý tài sản liên quan. Ví dụ: người đề xuất mua hàng không thể là người phê duyệt thanh toán. Nguyên tắc này phải được quán triệt trong các quy trình trọng yếu như: quy trình mua sắm, quy trình thanh toán, quy trình quản lý kho (tham chiếu Chương III và IV Quy chế Hoạt động Kinh doanh về quản lý kho và mua sắm tại garage) và quy trình tạm ứng (tham chiếu Điều 11 Quy chế Quản lý Tài chính).
 
 ### Điều 8. Thông tin và Truyền thông (Information & Communication)
@@ -105,7 +105,7 @@ Hệ thống KSNB chỉ hiệu quả khi các thông tin liên quan được tru
 
 ### Điều 9. Giám sát (Monitoring)
 Đây là quá trình đánh giá liên tục hoặc định kỳ để đảm bảo các thành phần của hệ thống KSNB đang tồn tại và vận hành hiệu quả.
-1.  Giám sát thường xuyên: Được thực hiện bởi các cấp quản lý trong quá trình điều hành hoạt động hàng ngày. Ví dụ: Quản lý Garage giám sát Cố vấn Dịch vụ tuân thủ Quy trình Dịch vụ 7 bước (Phụ lục A, Quy chế Hoạt động Kinh doanh QT-KD-01), Kế toán trưởng rà soát các báo cáo tài chính hàng tháng.
+1.  Giám sát thường xuyên: Được thực hiện bởi các cấp quản lý trong quá trình điều hành hoạt động hàng ngày. Ví dụ: Quản lý Garage giám sát Cố vấn Dịch vụ tuân thủ Quy trình Dịch vụ 7 bước (Phụ lục A, Quy chế Hoạt động Kinh doanh), Kế toán trưởng rà soát các báo cáo tài chính hàng tháng.
 2.  Giám sát định kỳ, độc lập:
 
     a) Được thực hiện bởi Ban Kiểm soát theo chức năng, nhiệm vụ quy định tại Quy chế Hoạt động của Ban Kiểm soát.

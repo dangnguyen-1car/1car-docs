@@ -18,8 +18,8 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 
 *   *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17 tháng 6 năm 2020;*
 *   *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20 tháng 11 năm 2019;*
-*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara (sau đây gọi là "Điều lệ Công ty"), đặc biệt là các Điều 20.3.e và Điều 22;*
-*   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị (sau đây gọi là "Quy chế HĐQT"), đặc biệt là các Điều 10 và Điều 20;*
+*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara (sau đây gọi là "Điều lệ Công ty");*
+*   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị (sau đây gọi là "Quy chế HĐQT");*
 *   *Căn cứ Quy chế Lương, Thưởng và Phúc lợi, Quy chế Tuyển dụng, Bổ nhiệm, Miễn nhiệm và Từ chức và các quy chế liên quan khác của Công ty;*
 *   *Căn cứ Nghị quyết của Hội đồng Quản trị số [Số Nghị quyết HĐQT]/NQ-HĐQT ngày 22 tháng 08 năm 2025 về việc thành lập các Tiểu ban chuyên môn và ban hành Quy chế hoạt động.*
 
@@ -89,7 +89,7 @@ Tiểu ban thực hiện ba (03) chức năng chính để hỗ trợ HĐQT:
 ### Điều 6. Nhiệm vụ về Nhân sự Cấp cao
 1.  Hoạch định kế nhiệm: Định kỳ rà soát, xây dựng và đề xuất cho HĐQT kế hoạch quy hoạch và phát triển đội ngũ lãnh đạo kế cận cho các chức danh do HĐQT bổ nhiệm.
 2.  Tuyển dụng, bổ nhiệm: Tham mưu cho HĐQT về tiêu chí, quy trình tuyển chọn, thẩm định ứng viên và đưa ra kiến nghị về việc bổ nhiệm, tái bổ nhiệm, miễn nhiệm, bãi nhiệm đối với các chức danh quản lý cấp cao (Tổng Giám đốc, các Phó Tổng Giám đốc, Kế toán trưởng), đảm bảo tuân thủ thẩm quyền của HĐQT được quy định tại Điều 10.1 và Điều 10.3 Quy chế HĐQT và được cụ thể hóa tại Quy chế Tuyển dụng, Bổ nhiệm, Miễn nhiệm và Từ chức.
-3.  Đào tạo và Phát triển: Tham mưu cho HĐQT về chiến lược và các chính sách tổng thể nhằm đào tạo, phát triển năng lực của đội ngũ lãnh đạo, phù hợp với chiến lược phát triển nguồn nhân lực chung của Công ty (viện dẫn Điều 2.6 Điều lệ Công ty và Điều 10.4 Quy chế Lương, Thưởng và Phúc lợi).
+3.  Đào tạo và Phát triển: Tham mưu cho HĐQT về chiến lược và các chính sách tổng thể nhằm đào tạo, phát triển năng lực của đội ngũ lãnh đạo, phù hợp với chiến lược phát triển nguồn nhân lực chung của Công ty (viện dẫn Điều 3.6 Điều lệ Công ty và Điều 10.4 Quy chế Lương, Thưởng và Phúc lợi).
 
 ### Điều 7. Nhiệm vụ về Lương, Thưởng và Đãi ngộ
 1.  Xây dựng chính sách: Chủ trì, tham mưu cho HĐQT trong việc xây dựng, rà soát, đề xuất sửa đổi hoặc bổ sung Quy chế Lương, Thưởng và Phúc lợi và các chính sách đãi ngộ khác, phù hợp với vai trò đã được ghi nhận tại Điều 17.2 Quy chế Lương, Thưởng và Phúc lợi, để trình HĐQT xem xét, phê duyệt.

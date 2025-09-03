@@ -27,7 +27,7 @@ QUYẾT ĐỊNH:
 
 ### Điều 1. Ban hành Ma trận Phân quyền
 
-Ban hành kèm theo Quyết định này “Ma trận Phân quyền (Delegation of Authority - DOA) - Phiên bản 1.0”, Mã hiệu QC-BGĐ-2025-02.
+Ban hành kèm theo Quyết định này “Ma trận Phân quyền (Delegation of Authority - DOA)".
 > Ma trận này là công cụ quản trị chính thức, quy định hệ thống phân cấp thẩm quyền phê duyệt đối với các hoạt động về Tài chính, Nhân sự, Mua sắm & Đầu tư, Kinh doanh & Vận hành trong toàn Công ty.
 
 ### Điều 2. Hiệu lực thi hành
@@ -94,11 +94,11 @@ Nơi nhận:
 
 | STT | Nội dung Phê duyệt | Ngưỡng Giá trị / Điều kiện | Cấp Trình duyệt | Cấp Phê duyệt | Căn cứ / Viện dẫn |
 | :--: | :--- | :--- | :--- | :--- | :--- |
-| 1.1 | Phê duyệt kế hoạch ngân sách hoạt động hàng năm của toàn Công ty | Toàn bộ | TGĐ | HĐQT | Điều 20.3.a Điều lệ; Điều 9.1 Quy chế HĐQT; Điều 9 Quy chế Tài chính |
+| 1.1 | Phê duyệt kế hoạch ngân sách hoạt động hàng năm của toàn Công ty | Toàn bộ | TGĐ | HĐQT | Điều 21.3.a Điều lệ; Điều 9.1 Quy chế HĐQT; Điều 9 Quy chế Tài chính |
 | 1.2 | Phê duyệt các khoản chi phí phát sinh (theo ngân sách đã duyệt) | ≤ 10 triệu VNĐ / lần | CBNV / Kế toán Garage | QLG | DOA |
 | | | > 10 triệu - ≤ 50 triệu VNĐ / lần | QLG / TPB | GĐV / TPB | DOA |
 | | | > 50 triệu - ≤ 200 triệu VNĐ / lần | GĐV / TPB | TGĐ | DOA |
-| | | > 200 triệu VNĐ / lần | TGĐ | HĐQT | Điều 10 Quy chế Tài chính; Điều 20.3 Điều lệ |
+| | | > 200 triệu VNĐ / lần | TGĐ | HĐQT | Điều 10 Quy chế Tài chính; Điều 21.3 Điều lệ |
 | 1.3 | Phê duyệt chi phí vượt ngân sách đã được duyệt | Vượt ≤ 5% ngân sách mục và ≤ 20 triệu VNĐ | QLG / TPB | TGĐ | DOA |
 | | | Vượt > 5% ngân sách mục hoặc > 20 triệu VNĐ | TGĐ | HĐQT | DOA |
 | 1.4 | Phê duyệt thanh toán cho nhà cung cấp (dựa trên hợp đồng/đơn hàng đã được duyệt) | Theo giá trị hợp đồng/đơn hàng đã duyệt | Kế toán | Kế toán trưởng / TGĐ | Điều 7.5 Quy chế Kiểm soát Nội bộ; Điều 17 Quy chế Mua sắm và Quản lý Nhà cung cấp |
@@ -113,35 +113,35 @@ Nơi nhận:
 
 | STT | Nội dung Phê duyệt | Chức danh áp dụng | Cấp Trình duyệt | Cấp Phê duyệt | Căn cứ / Viện dẫn |
 | :--: | :--- | :--- | :--- | :--- | :--- |
-| 2.1 | Phê duyệt kế hoạch nhân sự và quỹ lương hàng năm | Toàn Công ty | TGĐ | HĐQT | Điều 14 Quy chế Tuyển dụng1; Điều 9.1 Quy chế HĐQT |
-| 2.2 | Phê duyệt tuyển dụng & Ký HĐLĐ | Cấp nhân viên, chuyên viên | Trưởng phòng Nhân sự | TGĐ | Điều 14 Quy chế Tuyển dụng1; Điều 22 Điều lệ |
-| | | Cấp quản lý (Trưởng phòng, GĐ Garage) | Trưởng phòng Nhân sự | TGĐ | Điều 14 Quy chế Tuyển dụng; Điều 22 Điều lệ |
-| | | Cấp cao (TGĐ, PTGĐ, KTT...) | Tiểu ban Nhân sự HĐQT | HĐQT | Điều 14 Quy chế Tuyển dụng; Điều 20.3.e Điều lệ |
-| 2.3 | Quyết định lương cho nhân viên mới | Tất cả các cấp (trong khung lương đã duyệt) | Trưởng phòng Nhân sự | TGĐ | Điều 14 Quy chế Tuyển dụng; Quy chế Lương, Thưởng và Phúc lợi |
-| | | Ngoài khung lương đã được duyệt | TGĐ | HĐQT (Tiểu ban Nhân sự) | Điều 14 Quy chế Tuyển dụng; Quy chế Lương, Thưởng và Phúc lợi |
-| 2.4 | Xử lý kỷ luật lao động | Khiển trách, cảnh cáo | QLG / TPB | Trưởng phòng Nhân sự | Nội quy Lao động; Điều 10 Quy chế Tuyển dụng |
-| | | Sa thải / Chấm dứt HĐLĐ | Trưởng phòng Nhân sự | TGĐ | Nội quy Lao động; Điều 14 Quy chế Tuyển dụng |
+| 2.1 | Phê duyệt kế hoạch nhân sự và quỹ lương hàng năm | Toàn Công ty | TGĐ | HĐQT | Điều 15 Quy chế Tuyển dụng; Điều 9.1 Quy chế HĐQT |
+| 2.2 | Phê duyệt tuyển dụng & Ký HĐLĐ | Cấp nhân viên, chuyên viên | Trưởng phòng Nhân sự | TGĐ | Điều 15 Quy chế Tuyển dụng; Điều 22 Điều lệ |
+| | | Cấp quản lý (Trưởng phòng, GĐ Garage) | Trưởng phòng Nhân sự | TGĐ | Điều 15 Quy chế Tuyển dụng; Điều 22 Điều lệ |
+| | | Cấp cao (TGĐ, PTGĐ, KTT...) | Tiểu ban Nhân sự HĐQT | HĐQT | Điều 15 Quy chế Tuyển dụng; Điều 21.3.d Điều lệ |
+| 2.3 | Quyết định lương cho nhân viên mới | Tất cả các cấp (trong khung lương đã duyệt) | Trưởng phòng Nhân sự | TGĐ | Điều 15 Quy chế Tuyển dụng; Quy chế Lương, Thưởng và Phúc lợi |
+| | | Ngoài khung lương đã được duyệt | TGĐ | HĐQT (Tiểu ban Nhân sự) | Điều 15 Quy chế Tuyển dụng; Quy chế Lương, Thưởng và Phúc lợi |
+| 2.4 | Xử lý kỷ luật lao động | Khiển trách, cảnh cáo | QLG / TPB | Trưởng phòng Nhân sự | Nội quy Lao động; Điều 11 Quy chế Tuyển dụng |
+| | | Sa thải / Chấm dứt HĐLĐ | Trưởng phòng Nhân sự | TGĐ | Nội quy Lao động; Điều 15 Quy chế Tuyển dụng |
 
 ---
 
-#### BẢNG 3: LĨNH VỰC MUA SẮM & ĐẦU TƯ
+### BẢNG 3: LĨNH VỰC MUA SẮM & ĐẦU TƯ
 
 | STT | Nội dung Phê duyệt | Ngưỡng Giá trị / Điều kiện | Cấp Trình duyệt | Cấp Phê duyệt | Căn cứ / Viện dẫn |
 | :--: | :--- | :--- | :--- | :--- | :--- |
 | 3.1 | Mua sắm vật tư, phụ tùng, CCDC phục vụ kinh doanh | ≤ 20 triệu VNĐ / lần | Bộ phận yêu cầu | QLG | Điều 11 Quy chế Mua sắm và Quản lý Nhà cung cấp; DOA |
 | | | > 20 triệu - ≤ 100 triệu VNĐ / lần | Bộ phận yêu cầu | GĐV / TPB (Mua sắm) | Điều 11 Quy chế Mua sắm và Quản lý Nhà cung cấp; DOA |
 | | | > 100 triệu - ≤ 500 triệu VNĐ / lần | Bộ phận yêu cầu | TGĐ | Điều 11 Quy chế Mua sắm và Quản lý Nhà cung cấp; DOA |
-| 3.2 | Lựa chọn, ký hợp đồng với nhà cung cấp mới | Hợp đồng nguyên tắc, không có giá trị cam kết | TPB (Mua sắm) | TGĐ | Điều 8, 9 & 10 Quy chế Mua sắm và Quản lý Nhà cung cấp; Quy chế Hợp đồng1 |
+| 3.2 | Lựa chọn, ký hợp đồng với nhà cung cấp mới | Hợp đồng nguyên tắc, không có giá trị cam kết | TPB (Mua sắm) | TGĐ | Điều 8, 9 & 10 Quy chế Mua sắm và Quản lý Nhà cung cấp; Quy chế Hợp đồng |
 | 3.3 | Mua sắm Tài sản cố định (TSCĐ) | ≤ 300 triệu VNĐ / tài sản | Bộ phận yêu cầu | TGĐ | DOA |
-| | | > 300 triệu VNĐ / tài sản | TGĐ | HĐQT | Điều 12 Quy chế Quản trị Tài chính; Điều 20.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp |
+| | | > 300 triệu VNĐ / tài sản | TGĐ | HĐQT | Điều 12 Quy chế Quản trị Tài chính; Điều 21.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp |
 | 3.4 | Thanh lý, nhượng bán TSCĐ | Giá trị còn lại ≤ 50 triệu VNĐ | Bộ phận quản lý | TGĐ | DOA |
 | | | Giá trị còn lại > 50 triệu VNĐ | TGĐ | HĐQT | Điều 12.3 Quy chế Quản trị Tài chính; Điều 20.3.c Điều lệ |
 | 3.5 | Phê duyệt chủ trương, dự án đầu tư (mở Garage mới, đầu tư công nghệ,...) | Giá trị từ 20% đến < 35% tổng tài sản | TGĐ | HĐQT | Điều 20.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp; Điều 11.3.a Quy chế Hợp đồng |
-| | | Giá trị ≥ 35% tổng tài sản | HĐQT | ĐHĐCĐ | Điều 19.4.a Điều lệ |
+| | | Giá trị ≥ 35% tổng tài sản | HĐQT | ĐHĐCĐ | Điều 20.4.a Điều lệ |
 | 3.6 | Phê duyệt hợp đồng vay, cho vay | Giá trị > 10% tổng tài sản | TGĐ | HĐQT | Điều 11.1.d Quy chế HĐQT; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp; Điều 11.3.b Quy chế Hợp đồng
 ---
 
-#### BẢNG 4: LĨNH VỰC KINH DOANH & VẬN HÀNH
+### BẢNG 4: LĨNH VỰC KINH DOANH & VẬN HÀNH
 
 | STT | Nội dung Phê duyệt | Ngưỡng Giá trị / Điều kiện | Cấp Trình duyệt | Cấp Phê duyệt | Căn cứ / Viện dẫn |
 | :--: | :--- | :--- | :--- | :--- | :--- |
@@ -152,13 +152,13 @@ Nơi nhận:
 | 4.3 | Ký kết hợp đồng cung cấp dịch vụ cho khách hàng doanh nghiệp | Hợp đồng có tổng giá trị ≤ 200 triệu VNĐ / năm | TPB (Kinh doanh) | GĐV | Quy chế Hợp đồng; Điều 6 Chính sách Giá và Chiết khấu |
 | | | Hợp đồng có tổng giá trị > 200 triệu VNĐ / năm | GĐV | TGĐ | Quy chế Hợp đồng; Điều 6 Chính sách Giá và Chiết khấu |
 | 4.4 | Ký kết Hợp đồng Nhượng quyền Thương mại | Tất cả các hợp đồng | TGĐ | HĐQT | Điều 11.1.b Quy chế HĐQT; Điều 11.3.c Quy chế Hợp đồng |
-| 4.5 | Chấm dứt Hợp đồng Nhượng quyền Thương mại | Tất cả các trường hợp | TGĐ | HĐQT | Điều 26.4 Điều lệ Công ty |
+| 4.5 | Chấm dứt Hợp đồng Nhượng quyền Thương mại | Tất cả các trường hợp | TGĐ | HĐQT | Điều 25.4 Điều lệ Công ty |
 
 ---
 
-### CHƯƠNG III: ĐIỀU KHOẢN THI HÀNH
+## CHƯƠNG III: ĐIỀU KHOẢN THI HÀNH
 
-Điều 3. Hiệu lực và Trách nhiệm thi hành
+### Điều 3. Hiệu lực và Trách nhiệm thi hành
 
 1.  Hiệu lực: Ma trận Phân quyền này là một phần không thể tách rời của hệ thống quy chế quản trị nội bộ Công ty, được ban hành theo thẩm quyền của Hội đồng Quản trị và có hiệu lực kể từ ngày ký Quyết định ban hành.
 2.  Trách nhiệm Phổ biến: Trưởng các Phòng ban/Đơn vị tại Trụ sở chính và Quản lý các Garage chịu trách nhiệm phổ biến, hướng dẫn và đảm bảo toàn thể CBNV thuộc quyền quản lý của mình tuân thủ nghiêm ngặt Ma trận này.

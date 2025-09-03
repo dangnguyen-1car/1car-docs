@@ -17,9 +17,8 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 *   *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 17 tháng 6 năm 2020;*
 *   *Căn cứ Luật Chứng khoán số 54/2019/QH14 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 26 tháng 11 năm 2019;*
 *   *Căn cứ Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán;*
-*   *Căn cứ Điều 20.3.b và các điều khoản liên quan khác của Điều lệ Công ty Cổ phần 1CAR Gara (sau đây gọi là "Điều lệ Công ty") phiên bản hợp nhất ngày 11 tháng 08 năm 2025;*
+*   *Căn cứ Điều 20.3.b và các điều khoản liên quan khác của Điều lệ Công ty Cổ phần 1CAR Gara (sau đây gọi là "Điều lệ Công ty");*
 *   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị Công ty Cổ phần 1CAR Gara;*
-*   *Căn cứ Biên bản Thẩm định Pháp lý cuối cùng ngày 22/08/2025 xác nhận Dự thảo Quy chế Công bố Thông tin đã tuân thủ đầy đủ các quy định pháp luật và nội bộ;*
 *   *Căn cứ vào yêu cầu quản trị doanh nghiệp và thực tiễn hoạt động của Công ty Cổ phần 1CAR Gara.*
 
 Hội đồng Quản trị Công ty Cổ phần 1CAR Gara ban hành Quy chế Công bố Thông tin (sau đây gọi là “Quy chế”) với các nội dung chi tiết như sau:
@@ -77,7 +76,7 @@ Công ty phải công bố thông tin bất thường trong thời hạn 24 gi�
 
     c) Quyết định của HĐQT về việc vay, cho vay, mua hoặc bán tài sản có giá trị từ 10% tổng giá trị tài sản của Công ty trở lên, căn cứ vào Báo cáo tài chính gần nhất đã được kiểm toán hoặc soát xét (Tham chiếu: *Điều 11.1.d Quy chế Hoạt động HĐQT*).
 
-    d) Quyết định của HĐQT về các phương án đầu tư, dự án đầu tư; phê duyệt các hợp đồng, giao dịch có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất (Tham chiếu: *Điều 20.3.c Điều lệ Công ty*).
+    d) Quyết định của HĐQT về các phương án đầu tư, dự án đầu tư; phê duyệt các hợp đồng, giao dịch có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất (Tham chiếu: *Điều 21.3.c Điều lệ Công ty*).
 
 
 2.  Về hoạt động Công ty:
@@ -93,7 +92,7 @@ Công ty phải công bố thông tin bất thường trong thời hạn 24 gi�
 
 3.  Về nhân sự cấp cao:
 
-    a) Nghị quyết của ĐHĐCĐ hoặc HĐQT về việc bổ nhiệm, miễn nhiệm, bãi nhiệm các chức danh: Thành viên HĐQT, Thành viên BKS, Tổng Giám đốc, Phó Tổng Giám đốc, Kế toán trưởng, Người phụ trách Quản trị Công ty, Người phụ trách CBTT (Tham chiếu thẩm quyền của HĐQT tại Điều 10.1 Quy chế Hoạt động HĐQT và Điều 20.3.e Điều lệ Công ty).
+    a) Nghị quyết của ĐHĐCĐ hoặc HĐQT về việc bổ nhiệm, miễn nhiệm, bãi nhiệm các chức danh: Thành viên HĐQT, Thành viên BKS, Tổng Giám đốc, Phó Tổng Giám đốc, Kế toán trưởng, Người phụ trách Quản trị Công ty, Người phụ trách CBTT (Tham chiếu thẩm quyền của HĐQT tại Điều 10.1 Quy chế Hoạt động HĐQT và Điều 21.3.d Điều lệ Công ty).
 
     b) Thông tin về việc thành viên HĐQT, Tổng Giám đốc bị truy cứu trách nhiệm hình sự, bị Tòa án cấm đảm nhiệm chức vụ hoặc hành nghề.
 

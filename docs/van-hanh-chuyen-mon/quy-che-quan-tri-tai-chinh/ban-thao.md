@@ -59,18 +59,18 @@ Hội đồng Quản trị Công ty Cổ phần 1CAR Gara ban hành Quy chế Qu
 
 ### Điều 4. Nguyên tắc Quản trị Tài chính
 
-1.  Minh bạch (Transparency): Mọi hoạt động tài chính phải được ghi nhận, phản ánh đầy đủ, trung thực, chính xác trên sổ sách kế toán và báo cáo tài chính. Hệ thống phân cấp phê duyệt phải rõ ràng, dễ truy vết trách nhiệm.
-2.  Hiệu quả (Efficiency): Việc sử dụng vốn, tài sản và các nguồn lực tài chính khác phải được xem xét, đánh giá trên cơ sở hiệu quả đầu tư, tối ưu hóa chi phí và gia tăng lợi nhuận.
-3.  Tuân thủ (Compliance): Toàn bộ hoạt động tài chính phải tuân thủ nghiêm ngặt các quy định của pháp luật Việt Nam, Điều lệ Công ty và các quy chế quản trị nội bộ đã ban hành.
-4.  Bảo toàn và Phát triển vốn (Capital Preservation & Growth): Các quyết định tài chính và đầu tư phải ưu tiên mục tiêu hàng đầu là bảo toàn vốn của cổ đông, đồng thời tìm kiếm các cơ hội đầu tư an toàn, hiệu quả để phát triển vốn một cách bền vững.
+1.  Minh bạch: Mọi hoạt động tài chính phải được ghi nhận, phản ánh đầy đủ, trung thực, chính xác trên sổ sách kế toán và báo cáo tài chính. Hệ thống phân cấp phê duyệt phải rõ ràng, dễ truy vết trách nhiệm.
+2.  Hiệu quả: Việc sử dụng vốn, tài sản và các nguồn lực tài chính khác phải được xem xét, đánh giá trên cơ sở hiệu quả đầu tư, tối ưu hóa chi phí và gia tăng lợi nhuận.
+3.  Tuân thủ: Toàn bộ hoạt động tài chính phải tuân thủ nghiêm ngặt các quy định của pháp luật Việt Nam, Điều lệ Công ty và các quy chế quản trị nội bộ đã ban hành.
+4.  Bảo toàn và Phát triển vốn: Các quyết định tài chính và đầu tư phải ưu tiên mục tiêu hàng đầu là bảo toàn vốn của cổ đông, đồng thời tìm kiếm các cơ hội đầu tư an toàn, hiệu quả để phát triển vốn một cách bền vững.
 
 ## CHƯƠNG II: QUẢN LÝ VỐN VÀ NGUỒN VỐN
 
 ### Điều 5. Quản lý vốn chủ sở hữu
 
 1.  Vốn chủ sở hữu của Công ty được quản lý và theo dõi chi tiết theo từng nguồn hình thành: vốn góp của chủ sở hữu (vốn điều lệ), lợi nhuận sau thuế chưa phân phối, các quỹ của doanh nghiệp.
-2.  Việc tăng, giảm vốn điều lệ phải tuân thủ nghiêm ngặt quy định tại Điều 5 Điều lệ Công ty và các quy định pháp luật liên quan.
-3.  Việc mua lại cổ phần (cổ phiếu quỹ) phải được thực hiện theo đúng thẩm quyền và quy trình quy định tại Chương IV (Điều 10 đến Điều 17) của Điều lệ Công ty. Phòng Tài chính - Kế toán chịu trách nhiệm thực hiện các thủ tục tài chính liên quan.
+2.  Việc tăng, giảm vốn điều lệ phải tuân thủ nghiêm ngặt quy định tại Điều 6 Điều lệ Công ty và các quy định pháp luật liên quan.
+3.  Việc mua lại cổ phần (cổ phiếu quỹ) phải được thực hiện theo đúng thẩm quyền và quy trình quy định tại Chương IV (Điều 12 đến Điều 18) của Điều lệ Công ty. Phòng Tài chính - Kế toán chịu trách nhiệm thực hiện các thủ tục tài chính liên quan.
 
 ### Điều 6. Huy động vốn
 

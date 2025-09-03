@@ -18,8 +18,8 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 ## CĂN CỨ BAN HÀNH
 
 *   *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17 tháng 6 năm 2020;*
-*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara, đặc biệt là các Điều 5.2, 20.3.c, 20.3.d và Điều 26;*
-*   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị, đặc biệt là các Điều 9 và Điều 18;*
+*   *Căn cứ Điều lệ Công ty Cổ phần 1CAR Gara*
+*   *Căn cứ Quy chế Hoạt động của Hội đồng Quản trị*
 *   *Căn cứ Quy chế Quản trị Rủi ro của Công ty;*
 *   *Căn cứ Nghị quyết của Hội đồng Quản trị số [Số Nghị quyết]/NQ-HĐQT ngày [Ngày/Tháng/Năm] về việc thành lập các Tiểu ban chuyên môn và ban hành Quy chế hoạt động.*
 
@@ -39,7 +39,7 @@ Hội đồng Quản trị Công ty Cổ phần 1CAR Gara ban hành Quy chế Ho
 
     a) Độc lập và Khách quan: Mọi phân tích, đánh giá và kiến nghị của Tiểu ban phải được thực hiện một cách độc lập, khách quan, không bị chi phối bởi lợi ích cá nhân hay nhóm, và phải luôn đặt lợi ích cao nhất của Công ty và cổ đông lên hàng đầu.
 
-    b) Định hướng Dữ liệu (Data-Driven): Mọi thẩm định và đề xuất phải dựa trên cơ sở phân tích các dữ liệu, thông tin và bằng chứng xác thực, đáng tin cậy.
+    b) Định hướng Dữ liệu: Mọi thẩm định và đề xuất phải dựa trên cơ sở phân tích các dữ liệu, thông tin và bằng chứng xác thực, đáng tin cậy.
 
     c) Tuân thủ: Hoạt động của Tiểu ban phải tuân thủ nghiêm ngặt các quy định của pháp luật, Điều lệ Công ty, Quy chế Hoạt động của HĐQT và các quy chế nội bộ khác.
 
@@ -63,7 +63,7 @@ Tiểu ban thực hiện ba (03) chức năng chính để hỗ trợ HĐQT:
 
 2.  Thẩm định Dự án Đầu tư và Giao dịch lớn:
 
-    a) Thẩm định các dự án đầu tư mới, dự án mở rộng, mua sắm tài sản cố định có giá trị lớn và các hợp đồng, giao dịch có giá trị thuộc thẩm quyền quyết định của HĐQT (viện dẫn Điều 20.3.c Điều lệ Công ty).
+    a) Thẩm định các dự án đầu tư mới, dự án mở rộng, mua sắm tài sản cố định có giá trị lớn và các hợp đồng, giao dịch có giá trị thuộc thẩm quyền quyết định của HĐQT (viện dẫn Điều 21.3.c Điều lệ Công ty).
 
     b) Đánh giá các cơ hội mua bán, sáp nhập doanh nghiệp (M&A) hoặc các hình thức hợp tác chiến lược khác.
 
@@ -75,7 +75,7 @@ Tiểu ban thực hiện ba (03) chức năng chính để hỗ trợ HĐQT:
 
 4.  Đánh giá các Phương án Tài chính Chiến lược:
 
-    a) Xem xét, đánh giá về mặt chiến lược và sự cần thiết đối với các phương án huy động vốn (tăng vốn điều lệ, phát hành trái phiếu) để phục vụ các mục tiêu dài hạn (viện dẫn Điều 5.2 Điều lệ Công ty).
+    a) Xem xét, đánh giá về mặt chiến lược và sự cần thiết đối với các phương án huy động vốn (tăng vốn điều lệ, phát hành trái phiếu) để phục vụ các mục tiêu dài hạn (viện dẫn Điều 6.2 Điều lệ Công ty).
 
     b) Tham mưu cho HĐQT về chính sách phân phối lợi nhuận, chính sách cổ tức hàng năm để cân bằng giữa lợi ích của cổ đông và nhu cầu tái đầu tư.
 
@@ -89,7 +89,7 @@ Tiểu ban thực hiện ba (03) chức năng chính để hỗ trợ HĐQT:
 
     a) Trong mọi báo cáo thẩm định về chiến lược, dự án đầu tư hoặc các giao dịch lớn, Tiểu ban có trách nhiệm nhận diện và đánh giá các Rủi ro Chiến lược và Rủi ro Tài chính trọng yếu có thể phát sinh.
 
-    b) Việc đánh giá phải tuân thủ theo khuôn khổ và các tiêu chí đã được quy định tại Quy chế Quản trị Rủi ro (Mã hiệu: QTNB-03) của Công ty. Báo cáo thẩm định phải bao gồm các đề xuất về biện pháp kiểm soát hoặc giảm thiểu các rủi ro đã nhận diện.
+    b) Việc đánh giá phải tuân thủ theo khuôn khổ và các tiêu chí đã được quy định tại Quy chế Quản trị Rủi ro của Công ty. Báo cáo thẩm định phải bao gồm các đề xuất về biện pháp kiểm soát hoặc giảm thiểu các rủi ro đã nhận diện.
 
 
 ### Điều 5. Quyền hạn của Tiểu ban

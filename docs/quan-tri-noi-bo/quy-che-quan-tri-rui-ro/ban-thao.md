@@ -35,7 +35,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 
 Quy chế này được xây dựng và ban hành dựa trên:
 1.  Luật Doanh nghiệp số 59/2020/QH14 và các văn bản hướng dẫn thi hành.
-2.  Điều lệ Công ty Cổ phần 1Car Gara, đặc biệt là Điều 20.1, Điều 23.2 và Điều 26.
+2.  Điều lệ Công ty Cổ phần 1Car Gara, đặc biệt là Điều 21.1, Điều 24.2 và Điều 25.
 3.  Quy chế Hoạt động của Hội đồng Quản trị, đặc biệt là Điều 12, Điều 13.1, Điều 19.2.c, Điều 26.3 và Điều 27.
 4.  Các nghị quyết, quyết định của Đại hội đồng cổ đông và Hội đồng Quản trị.
 
@@ -68,7 +68,7 @@ Công ty áp dụng Mô hình Ba Tuyến phòng thủ để phân định rõ r�
 
 ### Điều 6. Vai trò và Trách nhiệm của Hội đồng Quản trị
 
-Căn cứ Điều lệ Công ty và Quy chế Hoạt động của HĐQT, đặc biệt là thẩm quyền được quy định tại Điều 20.3.b Điều lệ Công ty, HĐQT có vai trò giám sát tối cao và trách nhiệm cao nhất trước cổ đông về hệ thống QTRR, cụ thể:
+Căn cứ Điều lệ Công ty và Quy chế Hoạt động của HĐQT, đặc biệt là thẩm quyền được quy định tại Điều 21.3.b Điều lệ Công ty, HĐQT có vai trò giám sát tối cao và trách nhiệm cao nhất trước cổ đông về hệ thống QTRR, cụ thể:
 1.  Phê duyệt và ban hành Chính sách và Quy chế Quản trị Rủi ro này.
 2.  Thiết lập và định kỳ xem xét lại Khẩu vị Rủi ro và các giới hạn chấp nhận rủi ro của Công ty.
 3.  Giám sát hiệu quả tổng thể của hệ thống QTRR thông qua các báo cáo của Ban Tổng Giám đốc, Ban Kiểm soát và Tiểu ban Kiểm toán và Quản lý Rủi ro.
@@ -78,7 +78,7 @@ Căn cứ Điều lệ Công ty và Quy chế Hoạt động của HĐQT, đặc
 ### Điều 7. Vai trò và Trách nhiệm của Ban Kiểm soát
 
 1.  Thực hiện chức năng giám sát độc lập đối với HĐQT và Ban Tổng Giám đốc trong việc tuân thủ pháp luật và các quy định quản trị nội bộ, bao gồm Quy chế này.
-2.  Thực hiện nhiệm vụ được giao tại Điều 23.2 Điều lệ Công ty, BKS có trách nhiệm rà soát, đánh giá độc lập về tính đầy đủ, hiệu lực và hiệu quả của hệ thống QTRR.
+2.  Thực hiện nhiệm vụ được giao tại Điều 24.2 Điều lệ Công ty, BKS có trách nhiệm rà soát, đánh giá độc lập về tính đầy đủ, hiệu lực và hiệu quả của hệ thống QTRR.
 3.  Báo cáo trực tiếp cho Đại hội đồng cổ đông và HĐQT về các vấn đề trọng yếu, các thiếu sót trong hệ thống QTRR mà Ban phát hiện được.
 
 ### Điều 8. Vai trò và Trách nhiệm của Ban Tổng Giám đốc
@@ -111,7 +111,7 @@ Quy trình QTRR được thực hiện theo một chu trình khép kín và liê
 2.  Kết quả nhận dạng phải được ghi nhận vào Danh mục Rủi ro của đơn vị, mô tả rõ bản chất, nguyên nhân và các yếu tố liên quan của từng rủi ro.
 
 ### Điều 12. Bước 2: Phân tích Rủi ro
-1.  Đối với mỗi rủi ro đã nhận dạng, Chủ sở hữu Rủi ro phải tiến hành phân tích sâu hơn để hiểu rõ:
+Đối với mỗi rủi ro đã nhận dạng, Chủ sở hữu Rủi ro phải tiến hành phân tích sâu hơn để hiểu rõ:
 
     a) Nguyên nhân gốc rễ và các yếu tố tác động.
 
