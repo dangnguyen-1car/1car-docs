@@ -1,3 +1,3 @@
-﻿# Chính sách thù lao đãi ngộ
+﻿# Phiên bản chính thức
 
 Nội dung đang được cập nhật.

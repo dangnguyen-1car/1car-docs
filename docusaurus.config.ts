@@ -76,47 +76,130 @@ const config: Config = {
               to: '/docs/intro',
             },
             {
-              label: 'Pháp lý & Cổ đông',
+              label: 'Điều lệ công ty',
               to: '/docs/phap-ly-co-dong/dieu-le-cong-ty/ban-thao',
             },
             {
-              label: 'Quản trị Cấp cao',
+              label: 'Quy chế công bố thông tin',
+              to: '/docs/phap-ly-co-dong/quy-che-cong-bo-thong-tin/ban-thao',
+            },  
+            {
+              label: 'Quy chế Ban kiểm soát',
+              to: '/docs/phap-ly-co-dong/quy-che-hoat-dong-cua-ban-kiem-soat/ban-thao',
+            }, 
+          ],            
+        },
+        {            
+          title: 'Quản trị cấp cao', 
+          items: [                                          
+            {
+              label: 'Quy chế HĐQT',
               to: '/docs/quan-tri-cap-cao/quy-che-hoat-dong-hdqt/ban-thao',
             },
             {
-              label: 'Quản trị Nội bộ',
-              to: '/docs/quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ban-thao',
+              label: 'Quy chế Tiểu ban Kiểm toán',
+              to: '/docs/quan-tri-cap-cao/quy-che-tieu-ban-chuyen-trach/tieu-ban-kiem-toan',
             },
+            {
+              label: 'Quy chế Tiểu ban Chiến lược',
+              to: '/docs/quan-tri-cap-cao/quy-che-tieu-ban-chuyen-trach/tieu-ban-chien-luoc-dau-tu',
+            },
+            {
+              label: 'Quy chế Tiểu ban Nhân sự',
+              to: '/docs/quan-tri-cap-cao/quy-che-tieu-ban-chuyen-trach/tieu-ban-nhan-su-luong-thuong',
+            },                        
           ],
         },
+        {            
+          title: 'Quản trị nội bộ', 
+          items: [                                          
+            {
+              label: 'Quy chế Kiểm soát nội bộ',
+              to: '/docs/quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ban-thao',
+            },
+            {
+              label: 'Ma trận phân quyền DOA',
+              to: '/docs/quan-tri-noi-bo/ma-tran-phan-quyen/ban-thao',
+            },
+            {
+              label: 'Quy chế Quản trị Rủi ro',
+              to: '/docs/quan-tri-noi-bo/quy-che-quan-tri-rui-ro/ban-thao',
+            },
+            {
+              label: 'Quy chế Mua sắm',
+              to: '/docs/quan-tri-noi-bo/quy-che-mua-sam-quan-ly-nha-cung-cap/ban-thao',
+            },    
+            {
+              label: 'Quy chế Hợp đồng',
+              to: '/docs/quan-tri-noi-bo/quy-che-hop-dong/ban-thao',
+            },                                 
+          ],
+        },        
         {
-          title: 'Vận hành',
+          title: 'Vận hành chuyên môn',
           items: [
             {
-              label: 'Vận hành Chuyên môn',
+              label: 'Quy chế Quản trị Tài chính',
               to: '/docs/van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/ban-thao',
             },
             {
-              label: 'Tuân thủ và Đạo đức',
-              to: '/docs/tuan-thu-dao-duc/quy-dinh-dao-duc-xung-dot-loi-ich/ban-thao',
+              label: 'Quy chế Hoạt động Kinh doanh',
+              to: '/docs/van-hanh-chuyen-mon/quy-che-hoat-dong-kinh-doanh/ban-thao',
             },
             {
-              label: 'Triển khai và Công cụ',
-              to: '/docs/trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che',
+              label: 'Quy chế Lương thưởng',
+              to: '/docs/van-hanh-chuyen-mon/quy-che-luong-thuong-va-phuc-loi/ban-thao',
             },
+            {
+              label: 'Quy chế Tuyển dụng',
+              to: '/docs/van-hanh-chuyen-mon/quy-che-tuyen-dung-bo-nhiem-mien-nhiem-tu-chuc/ban-thao',
+            },
+            {
+              label: 'Chính sách Giá và Chiết khấu',
+              to: '/docs/van-hanh-chuyen-mon/chinh-sach-gia-va-chiet-khau/ban-thao',
+            },
+            {
+              label: 'Nội quy lao động',
+              to: '/docs/van-hanh-chuyen-mon/noi-quy-lao-dong/ban-thao',
+            },                                                            
           ],
         },
         {
-          title: 'Thông tin',
+          title: 'Tuân thủ và Đạo đức',
           items: [
             {
-              label: '1CAR Enterprise Portal',
-              href: 'https://1car.vn',
+              label: 'Quy định Đạo đức và Xung đột',
+              to: '/docs/tuan-thu-dao-duc/quy-dinh-dao-duc-xung-dot-loi-ich/ban-thao',
             },
             {
-              label: 'Phiên bản 1.0',
-              href: '#',
+              label: 'Quy định an toàn và vệ sinh lao động',
+              to: '/docs/tuan-thu-dao-duc/quy-dinh-tuan-thu-phap-luat-chuyen-nganh/an-toan-lao-dong',
             },
+            {
+              label: 'Quy định bảo vệ môi trường',
+              to: '/docs/tuan-thu-dao-duc/quy-dinh-tuan-thu-phap-luat-chuyen-nganh/bao-ve-moi-truong',
+            },
+            {
+              label: 'Quy định phòng cháy chữa cháy',
+              to: '/docs/tuan-thu-dao-duc/quy-dinh-tuan-thu-phap-luat-chuyen-nganh/phong-chay-chua-chay',
+            },                                                           
+          ],
+        },        
+        {
+          title: 'Triển khai và Công cụ',
+          items: [
+            {
+              label: 'Quy chế Quản lý và Sử dụng Hệ thống Công nghệ Thông tin',
+              to: '/docs/trien-khai-cong-cu/quy-che-quan-tri-cong-nghe-thong-tin/ban-thao',
+            },
+            {
+              label: 'Quy định bảo vệ môi trường',
+              to: '/docs/trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/ke-hoach',
+            },
+            {
+              label: 'Quy định phòng cháy chữa cháy',
+              to: '/docs/trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/tai-lieu-dao-tao-noi-bo',
+            },  
           ],
         },
       ],

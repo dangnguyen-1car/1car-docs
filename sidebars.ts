@@ -76,10 +76,17 @@ const sidebars: SidebarsConfig = {
           label: 'Quy chế Kiểm soát Nội bộ',
           items: [
             'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ban-thao',
-            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/phien-ban-chinh-thuc',
-            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/ma-tran-phan-quyen-doa',
+            'quan-tri-noi-bo/quy-che-kiem-soat-noi-bo/phien-ban-chinh-thuc',            
           ],
         },
+        {
+          type: 'category',
+          label: 'Ma trận phân quyền DOA',
+          items: [
+            'quan-tri-noi-bo/ma-tran-phan-quyen/ban-thao',
+            'quan-tri-noi-bo/ma-tran-phan-quyen/phien-ban-chinh-thuc',            
+          ],
+        },        
         {
           type: 'category',
           label: 'Quy chế Quản trị Rủi ro',
@@ -117,29 +124,49 @@ const sidebars: SidebarsConfig = {
           label: 'Quy chế Quản trị Tài chính',
           items: [
             'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/ban-thao',
-            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/phien-ban-chinh-thuc',
-            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/bieu-mau-tham-dinh-du-an',
+            'van-hanh-chuyen-mon/quy-che-quan-tri-tai-chinh/phien-ban-chinh-thuc',            
           ],
         },
         {
           type: 'category',
-          label: 'Quy chế Quản lý Mạng lưới Garage',
+          label: 'Quy chế Hoạt động Kinh doanh',
           items: [
-            'van-hanh-chuyen-mon/quy-che-quan-ly-mang-luoi-garage/ban-thao',
-            'van-hanh-chuyen-mon/quy-che-quan-ly-mang-luoi-garage/phien-ban-chinh-thuc',
-            'van-hanh-chuyen-mon/quy-che-quan-ly-mang-luoi-garage/bo-tieu-chuan-van-hanh-sops',
-            'van-hanh-chuyen-mon/quy-che-quan-ly-mang-luoi-garage/hop-dong-nhuong-quyen-mau',
+            'van-hanh-chuyen-mon/quy-che-hoat-dong-kinh-doanh/ban-thao',
+            'van-hanh-chuyen-mon/quy-che-hoat-dong-kinh-doanh/phien-ban-chinh-thuc',
           ],
         },
         {
           type: 'category',
-          label: 'Quy chế Nhân sự Cấp cao',
+          label: 'Quy chế Lương, Thưởng và Phúc lợi',
           items: [
-            'van-hanh-chuyen-mon/quy-che-nhan-su-cap-cao/ban-thao',
-            'van-hanh-chuyen-mon/quy-che-nhan-su-cap-cao/phien-ban-chinh-thuc',
-            'van-hanh-chuyen-mon/quy-che-nhan-su-cap-cao/chinh-sach-thu-lao-dai-ngo',
+            'van-hanh-chuyen-mon/quy-che-luong-thuong-va-phuc-loi/ban-thao',
+            'van-hanh-chuyen-mon/quy-che-luong-thuong-va-phuc-loi/phien-ban-chinh-thuc',           
           ],
         },
+        {
+          type: 'category',
+          label: 'Quy chế Tuyển dụng, Bổ nhiệm, Miễn nhiệm và Từ chức',
+          items: [
+            'van-hanh-chuyen-mon/quy-che-tuyen-dung-bo-nhiem-mien-nhiem-tu-chuc/ban-thao',
+            'van-hanh-chuyen-mon/quy-che-tuyen-dung-bo-nhiem-mien-nhiem-tu-chuc/phien-ban-chinh-thuc',           
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Chính sách Giá và Chiết khấu',
+          items: [
+            'van-hanh-chuyen-mon/chinh-sach-gia-va-chiet-khau/ban-thao',
+            'van-hanh-chuyen-mon/chinh-sach-gia-va-chiet-khau/phien-ban-chinh-thuc',           
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Nội quy lao động',
+          items: [
+            'van-hanh-chuyen-mon/noi-quy-lao-dong/ban-thao',
+            'van-hanh-chuyen-mon/noi-quy-lao-dong/phien-ban-chinh-thuc',           
+          ],
+        },                        
       ],
     },
     {
@@ -171,9 +198,22 @@ const sidebars: SidebarsConfig = {
       label: '06. TRIỂN KHAI & CÔNG CỤ',
       collapsed: true,
       items: [
-        'trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che',
-        'trien-khai-cong-cu/quy-che-quan-tri-cong-nghe-thong-tin',
-        'trien-khai-cong-cu/tai-lieu-dao-tao-noi-bo',
+        {
+          type: 'category',
+          label: 'Quy chế Quản lý và Sử dụng Hệ thống CNTT',
+          items: [
+            'trien-khai-cong-cu/quy-che-quan-tri-cong-nghe-thong-tin/ban-thao',
+            'trien-khai-cong-cu/quy-che-quan-tri-cong-nghe-thong-tin/phien-ban-chinh-thuc',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Kế hoạch triển khai Hệ thống quy chế',
+          items: [
+            'trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/ke-hoach',
+            'trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/tai-lieu-dao-tao-noi-bo',            
+          ],
+        },
       ],
     },
   ],
