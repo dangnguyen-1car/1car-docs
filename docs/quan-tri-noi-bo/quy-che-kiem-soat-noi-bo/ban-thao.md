@@ -149,8 +149,8 @@ Hệ thống KSNB chỉ hiệu quả khi các thông tin liên quan được tru
 2.  Quy chế này có hiệu lực thi hành kể từ ngày ký quyết định ban hành và thay thế cho tất cả các quy định trước đây của Công ty về kiểm soát nội bộ (nếu có).
 
 ### Điều 16. Khen thưởng và Xử lý vi phạm
-1.  Cá nhân, tập thể có thành tích xuất sắc trong việc tuân thủ, xây dựng và cải tiến hệ thống KSNB sẽ được xem xét khen thưởng theo quy định tại Quy chế Lương, Thưởng và Phúc lợi (Mã hiệu: VHCM-05).
-2.  Bất kỳ hành vi vi phạm nào đối với các quy định tại Quy chế này, đặc biệt là các hành vi gian lận, lạm dụng hoặc cố ý làm trái, tùy theo tính chất và mức độ, sẽ bị xử lý kỷ luật theo Nội quy Lao động và các quy định về chế tài tại Quy chế Lương, Thưởng và Phúc lợi (Mã hiệu: VHCM-05). Trường hợp gây thiệt hại vật chất, cá nhân, đơn vị vi phạm phải chịu trách nhiệm bồi thường theo quy định của pháp luật.
+1.  Cá nhân, tập thể có thành tích xuất sắc trong việc tuân thủ, xây dựng và cải tiến hệ thống KSNB sẽ được xem xét khen thưởng theo quy định tại Quy chế Lương, Thưởng và Phúc lợi.
+2.  Bất kỳ hành vi vi phạm nào đối với các quy định tại Quy chế này, đặc biệt là các hành vi gian lận, lạm dụng hoặc cố ý làm trái, tùy theo tính chất và mức độ, sẽ bị xử lý kỷ luật theo Nội quy Lao động và các quy định về chế tài tại Quy chế Lương, Thưởng và Phúc lợi. Trường hợp gây thiệt hại vật chất, cá nhân, đơn vị vi phạm phải chịu trách nhiệm bồi thường theo quy định của pháp luật.
 
 ### Điều 17. Sửa đổi, bổ sung
 Việc sửa đổi, bổ sung Quy chế này do Hội đồng Quản trị quyết định trên cơ sở đề xuất của Ban Tổng Giám đốc nhằm đảm bảo phù hợp với sự thay đổi của môi trường kinh doanh và các quy định của pháp luật.

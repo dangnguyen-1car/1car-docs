@@ -77,7 +77,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 
 1.  Lưu trữ: Hóa chất phải được lưu trữ trong kho riêng, khô ráo, thông thoáng, có biển báo nguy hiểm và tuân thủ các quy định về PCCC.
 2.  Nhãn mác: Tất cả các thùng chứa hóa chất phải có nhãn mác rõ ràng, đầy đủ thông tin về tên hóa chất, cảnh báo nguy hiểm và hướng dẫn an toàn.
-3.  Sử dụng: CBNV phải được huấn luyện và đọc kỹ Bảng chỉ dẫn an toàn hóa chất (MSDS) trước khi sử dụng.
+3.  Sử dụng: CBNV phải được huấn luyện và đọc kỹ Bảng chỉ dẫn an toàn hóa chất (SDS) trước khi sử dụng.
 
 ### Điều 7. Kế hoạch và Phương án ứng phó Sự cố Môi trường
 

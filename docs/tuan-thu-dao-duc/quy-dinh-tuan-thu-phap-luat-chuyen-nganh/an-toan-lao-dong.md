@@ -183,7 +183,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 ### Điều 12. Quản lý Nhà thầu
 
 1.  Mọi nhà thầu, nhà cung cấp dịch vụ khi thực hiện công việc trong phạm vi cơ sở của Công ty đều phải tuân thủ tuyệt đối các quy định trong Quy định này và các quy định ATVSLĐ đặc thù khác tại nơi làm việc.
-2.  Các yêu cầu, nghĩa vụ và chế tài về ATVSLĐ phải được quy định rõ ràng và là một điều khoản bắt buộc trong hợp đồng ký kết với nhà thầu, theo các nguyên tắc được nêu tại Quy chế Hợp đồng (Mã hiệu: QT-HD-01).
+2.  Các yêu cầu, nghĩa vụ và chế tài về ATVSLĐ phải được quy định rõ ràng và là một điều khoản bắt buộc trong hợp đồng ký kết với nhà thầu, theo các nguyên tắc được nêu tại Quy chế Hợp đồng.
 
 ### Điều 13. Kế hoạch Ứng phó Khẩn cấp
 
