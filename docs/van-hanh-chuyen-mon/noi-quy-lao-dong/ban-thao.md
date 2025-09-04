@@ -7,7 +7,7 @@ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM <br />
 
 | CÔNG TY CỔ PHẦN 1CAR GARA | NỘI QUY LAO ĐỘNG                     |
 | :------------------------ | :----------------------------------- |
-| Mã hiệu: NQLĐ-01          | Phiên bản: 1.0 (Ban hành chính thức) |
+| Mã hiệu: QC-BGĐ-2025-11   | Phiên bản: 1.0 (Ban hành chính thức) |
 | Ngày ban hành: 22/08/2025 | Ngày hiệu lực: 15/09/2025            |
 
 ---

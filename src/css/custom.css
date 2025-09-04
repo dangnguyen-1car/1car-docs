@@ -678,21 +678,22 @@
 
 /* Dark mode footer adjustments */
 [data-theme='dark'] .footer {
-  border-top-color: var(--ifm-color-gray-600);
+  background-color: #000000; /* Nền đen tuyền */
+  border-top-color: var(--ifm-color-gray-200); /* Viền phân cách màu xám tối */
 }
 
 [data-theme='dark'] .footer__title {
-  color: var(--ifm-color-gray-200);
+  color: var(--ifm-color-gray-900); /* Chữ trắng */
 }
 
 [data-theme='dark'] .footer__link-item {
-  color: var(--ifm-color-gray-300);
+  color: var(--ifm-color-gray-700); /* Chữ xám sáng */
 }
 
 [data-theme='dark'] .footer__link-item:hover {
-  color: var(--ifm-color-primary-light);
+  color: var(--ifm-color-primary-light); /* Giữ nguyên hiệu ứng hover màu đỏ */
 }
 
 [data-theme='dark'] .footer__copyright {
-  color: var(--ifm-color-gray-500);
+  color: var(--ifm-color-gray-600); /* Chữ xám cho phần copyright */
 }

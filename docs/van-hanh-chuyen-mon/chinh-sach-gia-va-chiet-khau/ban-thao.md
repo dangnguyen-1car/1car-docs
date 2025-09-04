@@ -164,14 +164,14 @@ Ma trận Phân quyền quy định tại Điều này sẽ được tích hợp
 
 ### Điều 14. Cơ chế Giám sát, Báo cáo và Kiểm toán
 
-1.  Toàn bộ các giao dịch liên quan đến giá, chiết khấu và khuyến mại phải được thực hiện và ghi nhận trên hệ thống IGMS để đảm bảo tính minh bạch, chính xác và có khả năng truy vết. (*Viện dẫn: Điều 15 Quy chế Quản lý và Sử dụng Hệ thống).
+1.  Toàn bộ các giao dịch liên quan đến giá, chiết khấu và khuyến mại phải được thực hiện và ghi nhận trên hệ thống IGMS để đảm bảo tính minh bạch, chính xác và có khả năng truy vết. (*Viện dẫn: Điều 15 Quy chế Quản lý và Sử dụng Hệ thống CNTT*).
 2.  Phòng Kinh doanh và Phòng Tài chính có trách nhiệm xây dựng hệ thống báo cáo định kỳ để theo dõi hiệu quả của chính sách giá và các chương trình khuyến mại.
 3.  Phòng Kiểm soát Nội bộ có quyền thực hiện các cuộc kiểm toán độc lập nhằm đánh giá mức độ tuân thủ và hiệu quả của việc thực thi chính sách. (*Viện dẫn: Điều 9 Quy chế Kiểm soát Nội bộ*).
 
 ### Điều 15. Xử lý vi phạm
 
 1.  Mọi hành vi vi phạm các quy định trong Chính sách này sẽ bị xem xét và xử lý kỷ luật theo Quy chế Lao động và các quy định nội bộ khác của Công ty.
-2.  Các hành vi gian lận nhằm trục lợi cá nhân, gây thất thoát tài sản của Công ty như tự ý thay đổi giá, lạm dụng chiết khấu thiện chí, thông đồng với khách hàng sẽ bị coi là vi phạm nghiêm trọng và có thể bị truy cứu trách nhiệm trước pháp luật. (*Viện dẫn: Điều 21 Quy chế Hoạt động Kinh doanh).
+2.  Các hành vi gian lận nhằm trục lợi cá nhân, gây thất thoát tài sản của Công ty như tự ý thay đổi giá, lạm dụng chiết khấu thiện chí, thông đồng với khách hàng sẽ bị coi là vi phạm nghiêm trọng và có thể bị truy cứu trách nhiệm trước pháp luật. (*Viện dẫn: Điều 21 Quy chế Hoạt động Kinh doanh*).
 
 ## CHƯƠNG VI: ĐIỀU KHOẢN THI HÀNH
 

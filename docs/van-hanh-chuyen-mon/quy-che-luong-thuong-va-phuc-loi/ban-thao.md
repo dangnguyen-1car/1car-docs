@@ -132,7 +132,7 @@ Tùy thuộc vào vị trí và tính chất công việc, CBNV có thể đư�
 ### Điều 11. Nguyên tắc và Nguồn chi thưởng
 
 1.  Các khoản thưởng là một phần thu nhập không cố định, không mang tính bắt buộc và phụ thuộc hoàn toàn vào kết quả kinh doanh của Công ty và hiệu quả làm việc của CBNV.
-2.  Nguồn chi thưởng: Quỹ thưởng được trích từ Quỹ Khen thưởng, Phúc lợi, hình thành từ lợi nhuận sau thuế của Công ty và phải tuân thủ theo chính sách phân phối lợi nhuận đã được Đại hội đồng cổ đông phê duyệt hàng năm (tham chiếu Điều 28 Điều lệ Công ty và Điều 7 Quy chế Quản lý Tài chính QTTC-01).
+2.  Nguồn chi thưởng: Quỹ thưởng được trích từ Quỹ Khen thưởng, Phúc lợi, hình thành từ lợi nhuận sau thuế của Công ty và phải tuân thủ theo chính sách phân phối lợi nhuận đã được Đại hội đồng cổ đông phê duyệt hàng năm (tham chiếu Điều 28 Điều lệ Công ty và Điều 7 Quy chế Quản lý Tài chính.
 
 ### Điều 12. Các loại hình thưởng
 

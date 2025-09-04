@@ -209,7 +209,7 @@ Dựa trên kết quả đánh giá, NCC được phân loại thành các nhóm
 
 ### Điều 23. Xử lý Vi phạm
 1.  Bất kỳ cá nhân, bộ phận nào vi phạm các quy định tại Quy chế này, tùy theo tính chất và mức độ vi phạm, sẽ bị xem xét xử lý kỷ luật theo Nội quy Lao động và các quy định của Công ty.
-2.  Các hành vi như thông đồng với NCC, nhận hoa hồng, tiết lộ thông tin thầu, cố ý lựa chọn NCC không đủ năng lực sẽ bị coi là vi phạm nghiêm trọng và có thể bị truy cứu trách nhiệm trước pháp luật nếu gây thiệt hại cho Công ty. Các hình thức kỷ luật và chế tài tài chính sẽ được áp dụng theo quy định tại Nội quy Lao động và Quy chế Lương, Thưởng và Phúc lợi (Mã hiệu: VHCM-05).
+2.  Các hành vi như thông đồng với NCC, nhận hoa hồng, tiết lộ thông tin thầu, cố ý lựa chọn NCC không đủ năng lực sẽ bị coi là vi phạm nghiêm trọng và có thể bị truy cứu trách nhiệm trước pháp luật nếu gây thiệt hại cho Công ty. Các hình thức kỷ luật và chế tài tài chính sẽ được áp dụng theo quy định tại Nội quy Lao động và Quy chế Lương, Thưởng và Phúc lợi.
 
 ### Điều 24. Điều khoản Thi hành
 1.  Quy chế này gồm 07 Chương, 26 Điều, có hiệu lực thi hành kể từ ngày ký quyết định ban hành.

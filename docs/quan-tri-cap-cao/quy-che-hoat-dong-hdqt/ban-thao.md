@@ -351,7 +351,7 @@ HĐQT đảm bảo các nghị quyết, quyết định quan trọng của HĐQT
 
 ## CHƯƠNG VIII: ĐIỀU KHOẢN THI HÀNH
 
-### ### Điều 29. Xử lý vi phạm và kỷ luật
+### Điều 29. Xử lý vi phạm và kỷ luật
 
 1.  Thành viên HĐQT vi phạm các quy định tại Quy chế này, tùy theo tính chất và mức độ vi phạm, sẽ bị xem xét xử lý kỷ luật.
 2.  Các hình thức kỷ luật bao gồm: nhắc nhở, khiển trách bằng văn bản, cảnh cáo.

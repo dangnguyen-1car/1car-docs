@@ -140,7 +140,7 @@ Mỗi Garage phải tuân thủ đầy đủ các yêu cầu pháp lý chuyên n
 ### Điều 14. Quản lý Doanh thu và Dòng tiền
 
 1.  Mọi khoản thu từ khách hàng phải được ghi nhận đầy đủ, chính xác qua hệ thống IGMS.
-2.  Toàn bộ tiền thu trong ngày phải được nộp vào tài khoản ngân hàng của Garage theo đúng quy định của Quy chế Quản lý Tài chính (QTTC-01), hạn chế tối đa việc lưu giữ tiền mặt.
+2.  Toàn bộ tiền thu trong ngày phải được nộp vào tài khoản ngân hàng của Garage theo đúng quy định của Quy chế Quản lý Tài chính, hạn chế tối đa việc lưu giữ tiền mặt.
 
 ### Điều 15. Báo giá, Xuất hóa đơn và Thanh toán
 
@@ -196,7 +196,7 @@ Một hành vi được coi là vi phạm nghiêm trọng khi thuộc một tron
 ### Điều 22. Chế tài Xử lý Vi phạm
 
 Tùy theo mức độ vi phạm, các chế tài sau có thể được áp dụng:
-1.  Đối với CBNV: Nhắc nhở, khiển trách, trừ lương hiệu quả theo quy định tại Quy chế Lương, Thưởng và Phúc lợi (Mã hiệu: VHCM-05), tạm đình chỉ công tác hoặc chấm dứt hợp đồng lao động theo Nội quy Lao động.
+1.  Đối với CBNV: Nhắc nhở, khiển trách, trừ lương hiệu quả theo quy định tại Quy chế Lương, Thưởng và Phúc lợi, tạm đình chỉ công tác hoặc chấm dứt hợp đồng lao động theo Nội quy Lao động.
 2.  Đối với Garage:
 
     a) Yêu cầu khắc phục và báo cáo kết quả.

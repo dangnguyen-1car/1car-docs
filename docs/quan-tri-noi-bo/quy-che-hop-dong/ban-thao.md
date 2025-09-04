@@ -55,7 +55,7 @@ Quy chế này được ban hành nhằm thiết lập một quy trình thống 
 ### Điều 3. Giải thích thuật ngữ
 *   Hợp đồng: Là sự thỏa thuận bằng văn bản giữa Công ty với một hoặc nhiều bên khác về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự, kinh tế.
 *   Bên liên quan: Là cá nhân, tổ chức có quan hệ với người quản lý doanh nghiệp, cổ đông lớn theo định nghĩa tại Luật Doanh nghiệp.
-*   Rủi ro trọng yếu: Là các rủi ro có khả năng gây ảnh hưởng nghiêm trọng đến tài chính, hoạt động hoặc uy tín của Công ty, được xác định theo Quy chế Quản trị Rủi ro (QTNB-03).
+*   Rủi ro trọng yếu: Là các rủi ro có khả năng gây ảnh hưởng nghiêm trọng đến tài chính, hoạt động hoặc uy tín của Công ty, được xác định theo Quy chế Quản trị Rủi ro.
 *   Hợp đồng mẫu: Là các mẫu hợp đồng chuẩn cho các giao dịch phổ biến, đã được Phòng Pháp chế thẩm định và Ban lãnh đạo phê duyệt để sử dụng thống nhất.
 *   Phụ lục Hợp đồng: Là một phần không thể tách rời của Hợp đồng, được lập để sửa đổi, bổ sung một số điều khoản của Hợp đồng đã ký.
 *   Thanh lý Hợp đồng: Là việc các bên xác nhận đã hoàn thành tất cả các quyền và nghĩa vụ theo Hợp đồng và không có bất kỳ tranh chấp, khiếu nại nào.

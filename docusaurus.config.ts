@@ -193,17 +193,17 @@ const config: Config = {
               to: '/docs/trien-khai-cong-cu/quy-che-quan-tri-cong-nghe-thong-tin/ban-thao',
             },
             {
-              label: 'Quy định bảo vệ môi trường',
+              label: 'Kế hoạch triển khai Hệ thống Quy chế',
               to: '/docs/trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/ke-hoach',
             },
             {
-              label: 'Quy định phòng cháy chữa cháy',
+              label: 'Tài liệu đào tạo nội bộ',
               to: '/docs/trien-khai-cong-cu/ke-hoach-trien-khai-he-thong-quy-che/tai-lieu-dao-tao-noi-bo',
             },  
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} 1CAR Enterprise. Tất cả quyền được bảo lưu.`,
+      copyright: `© ${new Date().getFullYear()} 1CAR Gara JSC. Tất cả quyền được bảo lưu.`,
     },
     prism: {
       theme: prismThemes.github,
