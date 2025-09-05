@@ -137,7 +137,7 @@ Hội đồng Quản trị Công ty Cổ phần 1CAR Gara ban hành Quy chế Qu
 
     a) Ban Tổng Giám đốc phê duyệt các dự án, hợp đồng theo Ma trận DOA.
 
-    b) HĐQT phê duyệt các hợp đồng, giao dịch đầu tư hoặc bán tài sản có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất, phù hợp với Điều 20.3.c Điều lệ Công ty.
+    b) HĐQT phê duyệt các hợp đồng, giao dịch đầu tư hoặc bán tài sản có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất, phù hợp với Điều 21.3.c Điều lệ Công ty.
 
     c) HĐQT phê duyệt các hợp đồng, giao dịch vay, cho vay có giá trị lớn hơn 10% tổng giá trị tài sản của Công ty ghi trong báo cáo tài chính gần nhất, phù hợp với Điều 11.1.d Quy chế HĐQT.
 

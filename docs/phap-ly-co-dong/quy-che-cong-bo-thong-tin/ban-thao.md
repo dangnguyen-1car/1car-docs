@@ -99,7 +99,7 @@ Công ty phải công bố thông tin bất thường trong thời hạn 24 gi�
 
 4.  Về thay đổi liên quan đến cổ phần:
 
-    a) Quyết định về việc thay đổi vốn điều lệ (Tham chiếu: *Điều 5 Điều lệ Công ty*).
+    a) Quyết định về việc thay đổi vốn điều lệ (Tham chiếu: *Điều 6 Điều lệ Công ty*).
 
     b) Thông báo về ngày đăng ký cuối cùng để thực hiện quyền cho cổ đông hiện hữu (quyền mua cổ phiếu, quyền nhận cổ tức, quyền tham dự ĐHĐCĐ...).
 

@@ -120,7 +120,7 @@ Quy trình đánh giá hồ sơ chào giá/dự thầu được thực hiện nh
 Việc phê duyệt kết quả lựa chọn NCC phải tuân thủ nghiêm ngặt theo Ma trận Phân quyền (DOA) đã được ban hành.
 
 ### Điều 11bis. Phê duyệt các giao dịch đặc thù
-Đối với các hợp đồng mua sắm, giao dịch đầu tư tài sản có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty, hoặc các hợp đồng vay để phục vụ mua sắm có giá trị lớn hơn 10% tổng giá trị tài sản, quy trình và thẩm quyền phê duyệt phải tuân thủ nghiêm ngặt theo Điều 20.3.c Điều lệ Công ty và Điều 11.1 Quy chế Hoạt động của HĐQT. Ban Tổng Giám đốc có trách nhiệm trình HĐQT xem xét, phê duyệt trước khi tiến hành.
+Đối với các hợp đồng mua sắm, giao dịch đầu tư tài sản có giá trị từ 20% đến dưới 35% tổng giá trị tài sản của Công ty, hoặc các hợp đồng vay để phục vụ mua sắm có giá trị lớn hơn 10% tổng giá trị tài sản, quy trình và thẩm quyền phê duyệt phải tuân thủ nghiêm ngặt theo Điều 21.3.c Điều lệ Công ty và Điều 11.1 Quy chế Hoạt động của HĐQT. Ban Tổng Giám đốc có trách nhiệm trình HĐQT xem xét, phê duyệt trước khi tiến hành.
 
 ## CHƯƠNG IV: QUẢN LÝ HỢP ĐỒNG
 

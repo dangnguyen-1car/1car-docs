@@ -69,7 +69,7 @@ Tiểu ban thực hiện ba (03) chức năng chính để hỗ trợ HĐQT:
 
 3.  Đánh giá Chiến lược Nhượng quyền:
 
-    a) Phân tích, đề xuất các mô hình, chính sách phí, lộ trình và các thị trường mục tiêu cho việc phát triển Mạng lưới 1CAR theo mô hình nhượng quyền, phù hợp với thẩm quyền của HĐQT tại Điều 26 Điều lệ Công ty.
+    a) Phân tích, đề xuất các mô hình, chính sách phí, lộ trình và các thị trường mục tiêu cho việc phát triển Mạng lưới 1CAR theo mô hình nhượng quyền, phù hợp với thẩm quyền của HĐQT tại Điều 25 Điều lệ Công ty.
 
     b) Định kỳ đánh giá hiệu quả của chiến lược nhượng quyền và đề xuất các biện pháp cải tiến, tối ưu hóa.
 

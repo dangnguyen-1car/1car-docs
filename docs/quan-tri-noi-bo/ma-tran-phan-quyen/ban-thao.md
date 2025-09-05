@@ -84,7 +84,7 @@ Nơi nhận:
 | HĐQT | Hội đồng Quản trị | Cơ quan quản lý cao nhất của Công ty. |
 | TGĐ | Tổng Giám đốc | Người điều hành cao nhất hoạt động kinh doanh hàng ngày của Công ty. |
 | GĐV | Giám đốc Vùng | Cấp quản lý phụ trách một khu vực địa lý, bao gồm nhiều Garage. |
-| TPB | Trưởng Phòng ban (tại Trụ sở chính) | Trưởng các phòng ban chức năng như Tài chính, Nhân sự, Mua sắm, Kinh doanh. |
+| TPB | Trưởng Phòng ban (tại Trụ sở chính) | Trưởng các phòng ban chức năng như Tài chính, Nhân sự, Phụ tùng, Kinh doanh. |
 | QLG | Quản lý Garage | Người quản lý và điều hành cao nhất tại một cơ sở Garage trực thuộc. |
 
 
@@ -135,9 +135,9 @@ Nơi nhận:
 | 3.3 | Mua sắm Tài sản cố định (TSCĐ) | ≤ 300 triệu VNĐ / tài sản | Bộ phận yêu cầu | TGĐ | DOA |
 | | | > 300 triệu VNĐ / tài sản | TGĐ | HĐQT | Điều 12 Quy chế Quản trị Tài chính; Điều 21.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp |
 | 3.4 | Thanh lý, nhượng bán TSCĐ | Giá trị còn lại ≤ 50 triệu VNĐ | Bộ phận quản lý | TGĐ | DOA |
-| | | Giá trị còn lại > 50 triệu VNĐ | TGĐ | HĐQT | Điều 12.3 Quy chế Quản trị Tài chính; Điều 20.3.c Điều lệ |
-| 3.5 | Phê duyệt chủ trương, dự án đầu tư (mở Garage mới, đầu tư công nghệ,...) | Giá trị từ 20% đến < 35% tổng tài sản | TGĐ | HĐQT | Điều 20.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp; Điều 11.3.a Quy chế Hợp đồng |
-| | | Giá trị ≥ 35% tổng tài sản | HĐQT | ĐHĐCĐ | Điều 20.4.a Điều lệ |
+| | | Giá trị còn lại > 50 triệu VNĐ | TGĐ | HĐQT | Điều 12.3 Quy chế Quản trị Tài chính; Điều 21.3.c Điều lệ |
+| 3.5 | Phê duyệt chủ trương, dự án đầu tư (mở Garage mới, đầu tư công nghệ,...) | Giá trị từ 20% đến < 35% tổng tài sản | TGĐ | HĐQT | Điều 21.3.c Điều lệ; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp; Điều 11.3.a Quy chế Hợp đồng |
+| | | Giá trị ≥ 35% tổng tài sản | HĐQT | ĐHĐCĐ | Điều 20.2.d Điều lệ |
 | 3.6 | Phê duyệt hợp đồng vay, cho vay | Giá trị > 10% tổng tài sản | TGĐ | HĐQT | Điều 11.1.d Quy chế HĐQT; Điều 11bis Quy chế Mua sắm và Quản lý Nhà cung cấp; Điều 11.3.b Quy chế Hợp đồng
 ---
 
