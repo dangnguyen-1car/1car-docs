@@ -1,0 +1,103 @@
+/**
+ * Avatar Component Styles for 1CAR Enterprise Portal
+ */
+
+.avatarImage {
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--ifm-color-gray-200);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.avatarPlaceholder {
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.avatarPlaceholder:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Size variants */
+.avatarSmall {
+  width: 24px;
+  height: 24px;
+  font-size: 0.7rem;
+}
+
+.avatarMedium {
+  width: 32px;
+  height: 32px;
+  font-size: 0.9rem;
+}
+
+.avatarLarge {
+  width: 48px;
+  height: 48px;
+  font-size: 1.2rem;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .avatarImage {
+  border-color: var(--ifm-color-gray-600);
+}
+
+[data-theme='dark'] .avatarPlaceholder {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Hover effects */
+.avatarImage:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Status indicators (for future use) */
+.avatarWithStatus {
+  position: relative;
+}
+
+.avatarWithStatus::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #22c55e;
+  border: 2px solid white;
+}
+
+[data-theme='dark'] .avatarWithStatus::after {
+  border-color: var(--ifm-color-gray-900);
+}
+
+/* Animation for loading state */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.avatarLoading {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  background-color: var(--ifm-color-gray-300);
+}
+
+[data-theme='dark'] .avatarLoading {
+  background-color: var(--ifm-color-gray-600);
+}

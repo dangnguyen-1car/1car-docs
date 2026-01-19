@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import ProtectedRoute from '../components/ProtectedRoute';
 
 import styles from './index.module.css';
 
@@ -191,7 +192,13 @@ function DocumentCategoriesSection() {
       description: "Kế hoạch triển khai, đào tạo nội bộ",
       icon: "🚀",
       link: "/docs/intro"
-    }
+    },
+    {
+      title: "Giám đốc Tài chính - CFO",
+      description: "Mô tả, sổ tay nhiệm vụ và quy trình triển khai",
+      icon: "🚀",
+      link: "/docs/intro"
+    }    
   ];
 
   return (
@@ -250,17 +257,19 @@ function ImportantNoticeSection() {
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title="Trang chủ"
-      description="Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR - Hệ thống Quản trị Toàn diện cho Chuỗi Garage Ô tô">
-      <AnnouncementBar />
-      <HomepageHeader />
-      <main>
-        <WelcomeSection />
-        <GetStartedSection />
-        <DocumentCategoriesSection />
-        <ImportantNoticeSection />
-      </main>
-    </Layout>
+    <ProtectedRoute>
+      <Layout
+        title="Trang chủ"
+        description="Cổng Thông Tin Quản Trị Doanh Nghiệp 1CAR - Hệ thống Quản trị Toàn diện cho Chuỗi Garage Ô tô">
+        <AnnouncementBar />
+        <HomepageHeader />
+        <main>
+          <WelcomeSection />
+          <GetStartedSection />
+          <DocumentCategoriesSection />
+          <ImportantNoticeSection />
+        </main>
+      </Layout>
+    </ProtectedRoute>
   );
 }

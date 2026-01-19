@@ -697,3 +697,9 @@
 [data-theme='dark'] .footer__copyright {
   color: var(--ifm-color-gray-600); /* Chữ xám cho phần copyright */
 }
+
+/* Loading spinner animation */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

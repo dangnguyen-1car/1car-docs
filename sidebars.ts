@@ -216,6 +216,25 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: '07. GIÁM ĐỐC TÀI CHÍNH - CFO',
+      collapsed: true,
+      items: [
+        {
+          type: 'category',
+          label: 'Nhiệm vụ & hướng dẫn',
+          items: [
+            'giam-doc-tai-chinh-cfo/de-xuat-mo-ta-nhiem-vu',
+            'giam-doc-tai-chinh-cfo/khung-module-va-nhiem-vu',
+            'giam-doc-tai-chinh-cfo/phan-tich-cac-tham-so-quan-tri',
+            'giam-doc-tai-chinh-cfo/mo-ta-nhiem-vu-cfo',
+            'giam-doc-tai-chinh-cfo/so-tay-nhiem-vu',
+            'giam-doc-tai-chinh-cfo/quy-trinh-du-bao-dong-tien-13-tuan',                   
+          ],
+        },
+      ],
+    },
   ],
 };
 

@@ -63,6 +63,10 @@ const config: Config = {
           type: 'search',
           position: 'right',
         },
+        {
+          type: 'custom-userMenu',
+          position: 'right',
+        },
       ],
     },
     footer: {

@@ -1,10 +1,21 @@
-import React from 'react';
+/**
+ * Root component for 1CAR Enterprise Portal
+ * Wrap toàn bộ ứng dụng với AuthProvider
+ */
 
-// Default implementation, that you can customize
-export default function Root({children}: {children: React.ReactNode}): React.ReactElement {
-  return (
-    <>
-      {children}
-    </>
-  );
+import React from 'react';
+import { AuthProvider } from '../context/AuthContext';
+
+interface RootProps {
+  children: React.ReactNode;
 }
+
+const Root: React.FC<RootProps> = ({ children }) => {
+  return (
+    <AuthProvider>
+      {children}
+    </AuthProvider>
+  );
+};
+
+export default Root;
