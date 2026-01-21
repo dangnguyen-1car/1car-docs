@@ -14,7 +14,7 @@ Tài liệu này thiết lập khung quản trị tài chính chuyên nghiệp c
 
 Tại 1CAR Gara, chúng tôi định nghĩa lại vị thế của CFO: CFO không phải là một Kế toán trưởng cấp cao ngồi ghi chép những con số đã rồi, mà là Kiến trúc sư trưởng của sự ổn định và Người kiểm soát mạch máu tài chính.
 
-Sổ tay này ra đời để giải quyết các vấn đề cốt lõi bằng cơ chế quản trị dựa trên dữ liệu thời gian thực (Real-time Data):
+Sổ tay này ra đời để giải quyết các vấn đề cốt lõi bằng cơ chế quản trị dựa trên dữ liệu thời gian thực:
 *   Đối với Cổ đông: CFO bảo vệ lợi ích tối cao bằng cách thiết lập các Lằn ranh đỏ tài chính, đảm bảo vốn không bị lãng phí và lợi nhuận không bị xói mòn bởi những quyết định cảm tính.
 *   Đối với Giám đốc (CEO): CFO không tước bỏ quyền điều hành, nhưng CFO là người kiểm soát Hệ thống phanh. CEO có thể nhấn ga để tăng trưởng, nhưng CFO quyết định khi nào hệ thống cần dừng lại để bảo vệ sự sống còn của toàn mạng lưới.
 ### 1. Mục tiêu Chiến lược
@@ -31,7 +31,8 @@ Sổ tay này ra đời để giải quyết các vấn đề cốt lõi bằng 
 
 ## II. CẤU TRÚC QUẢN TRỊ "60-20-15-5"
 
-Đây là DNA tài chính của 1CAR Gara. Mọi biến động lệch khỏi tỷ lệ này đều yêu cầu sự can thiệp ngay lập tức của CFO.
+### 1.1 Nguyên tắc Tài chính 60-20-15-5
+Mọi Garage trong hệ thống phải tuân thủ tuyệt đối cấu trúc phân bổ nguồn vốn pháp lệnh. Đây là cấu trúc tài chính của 1CAR Gara. Mọi biến động lệch khỏi tỷ lệ này đều yêu cầu sự can thiệp ngay lập tức của CFO.
 
 | Chỉ số             | Tỷ lệ | Ý nghĩa & Logic điều phối                                                                                                                             |
 | :----------------- | :---- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,48 +41,68 @@ Sổ tay này ra đời để giải quyết các vấn đề cốt lõi bằng 
 | Lợi nhuận (EBITDA) | 15%   | Mục tiêu cuối cùng. Là phần thưởng cho cổ đông và nguồn vốn để tái đầu tư mở rộng chuỗi.                                                              |
 | Dự phòng (Reserve) | 5%    | Hũ tài chính khẩn cấp: Dùng cho bảo hành, sai lỗi kỹ thuật, và rủi ro hao hụt vật tư. Nếu không dùng hết, khoản này sẽ chuyển vào lợi nhuận cuối năm. |
 
+### 1.2 Các Lằn ranh đỏ
+Hệ thống Phanh tự động kích hoạt khi các chỉ số chạm ngưỡng cảnh báo:
+- COGS Red Line: > 60% (Bắt đầu ăn mòn lợi nhuận). > 65% (Kích hoạt đóng băng nhập hàng).
+- Labor Efficiency Red Line: Doanh thu/Nhân sự < 40.000.000 VNĐ/tháng.
+- Cash Red Line: Cash Ratio < 1.0 (Số dư tiền mặt không đủ phủ chi phí vận hành 1 tháng).
+- BEP Red Line: Chưa đạt điểm hòa vốn sau ngày 20 hàng tháng.
+
 ---
 
 ## III. 5 MODULE NHIỆM VỤ TRỌNG TÂM
 
-### Module 1: Lập kế hoạch tài chính (Bản đồ 2026)
-CFO không dự báo dựa trên hy vọng, mà dựa trên năng lực thực tế.
-*   Xây dựng hạn mức chi phí cho từng garage trước ngày 25 hàng tháng.
-*   Thiết lập kịch bản tài chính: Kịch bản Cơ sở (100% mục tiêu), Kịch bản Sinh tồn (80% mục tiêu), Kịch bản Tăng trưởng (120% mục tiêu).
-*   Kết quả: Một bản ngân sách mà ở đó mọi bộ phận đều biết mình được tiêu bao nhiêu tiền và phải mang về bao nhiêu doanh thu.
+### MODULE A: KẾ HOẠCH & THẨM ĐỊNH NGÂN SÁCH
+1.  SOP-A01: Lập ngân sách Top-down: CFO áp định mức 60-20-15-5 từ trên xuống dựa trên mục tiêu CEO đề ra.
+2.  SOP-A02: Rà soát ngày 25: Tự động cắt giảm 15% OPEX tháng sau nếu doanh thu tháng này hụt > 20% kế hoạch.
+3.  SOP-A03: Thẩm định 3 bước: Mọi khoản chi phải qua lọc: *Tính thiết yếu -> Tính hiệu quả (ROI > 25%) -> Tính thanh khoản.*
 
-### Module 2: Phân tích điểm hòa vốn & Hiệu suất
-Đảm bảo CEO biết chính xác khi nào garage đang "đốt tiền".
-*   Xác định doanh thu hòa vốn (BEP) theo ngày. *Ví dụ: Mỗi ngày mở cửa phải thu về ít nhất 33 triệu VNĐ.*
-*   Kiểm soát hiệu suất nhân sự: Doanh thu/đầu người phải đạt ngưỡng 50 triệu VNĐ/tháng.
-*   Kết quả: Hệ thống cảnh báo sớm giúp điều chỉnh chiến dịch Marketing hoặc cắt giảm nhân sự khi doanh thu không đạt ngưỡng hòa vốn.
+### MODULE B: ĐIỂM HÒA VỐN & HIỆU SUẤT
+4.  SOP-B01: Xác định giá sàn: Chặn mọi lệnh báo giá có biên lợi nhuận gộp < 20% trừ khi có lệnh phê duyệt Lỗ chiến lược từ CFO.
+5.  SOP-B02: Theo dõi BEP thời gian thực: Chia định phí theo ngày; Dashboard cảnh báo Đỏ nếu đến ngày 20 chưa hòa vốn.
+6.  SOP-B03: Quản trị Labor Efficiency: Duy trì tỷ lệ Lương/Doanh thu < 20%. CFO có quyền Veto tuyển dụng nếu hiệu suất thấp.
 
-### Module 3: Dự báo bán hàng & Tồn kho
-Kiểm soát "tiền chết" trong kho phụ tùng.
-*   Thiết lập mức tồn kho tối thiểu/tối đa cho từng mã hàng (Sơn, dầu nhớt, phụ tùng thay thế nhanh).
-*   Áp dụng quy tắc: Không nhập hàng nếu tốc độ luân chuyển kho nhỏ hơn 8 vòng/năm.
-*   Kết quả: Giảm tình trạng chôn vốn vào kho và tránh thất thoát vật tư do không kiểm soát định mức.
+### MODULE C: DỰ BÁO BÁN HÀNG & TỒN KHO
+7.  SOP-C01: Khớp lệnh năng lực: Đối soát dự báo Marketing với số lượng khoang/thợ thực tế để tránh lạc quan tquá mức.
+8.  SOP-C02: Thanh lọc tồn kho: Kích hoạt xả hàng/thanh lý đối với phụ tùng > 90 ngày không luân chuyển để giải phóng vốn.
+9.  SOP-C03: Đóng băng COGS: Tự động khóa quyền tạo đơn mua hàng (PO) khi tỷ lệ COGS tuần chạm ngưỡng 62%.
 
-### Module 4: Quản trị công nợ
-Doanh thu chỉ là con số, tiền mặt mới là sự thật.
-*   Phân loại nợ theo đối tượng: Bảo hiểm (Thu hồi trong 30 ngày), Khách đoàn (Thu hồi theo kỳ), Khách lẻ (Tiền mặt 100%).
-*   Thiết lập hạn mức nợ (Credit Limit) cho từng hãng bảo hiểm.
-*   Kết quả: Chỉ số DSO (Số ngày thu hồi nợ) luôn nhỏ hơn 30 ngày. Không cho phép nợ xấu vượt quá 0.5% doanh thu.
+### MODULE D: QUẢN TRỊ CÔNG NỢ
+10. SOP-D01: Credit Limit: Áp hạn mức nợ cho từng hãng bảo hiểm/đội xe. Khách lẻ mặc định Credit Limit = 0.
+11. SOP-D02: Service Stop: Tự động khóa chức năng mở Lệnh sửa chữa trên ERP nếu khách nợ quá hạn > 15 ngày.
 
-### Module 5: Kiểm soát số dư tiền mặt
-Quản trị nguồn tiền của doanh nghiệp.
-*   Duy trì số dư tiền mặt tương đương 1.5 tháng chi phí vận hành.
-*   Thực hiện báo cáo dòng tiền (Cashflow) hàng ngày vào 17:30.
-*   Kết quả: Đảm bảo 1CAR Gara luôn có sẵn tiền mặt để thanh toán lương, nhà cung cấp và nắm bắt các cơ hội đầu tư gấp.
+### MODULE E: KIỂM SOÁT DÒNG TIỀN
+12. SOP-E01: Dự báo 13 tuần: Cập nhật cuốn chiếu dòng tiền vào/ra hàng tuần để dự báo điểm đứt gãy thanh khoản.
+13. SOP-E02: Chiến thuật 3 hũ tiền: Tự động tách tiền về các tài khoản phụ: *Vận hành - Tái đầu tư - Lợi nhuận/Dự phòng.*
+14. SOP-E03: Phê duyệt theo Budget Remaining: ERP chặn phiếu chi nếu hạng mục đó đã hết ngân sách tháng, bất kể số dư ngân hàng còn bao nhiêu.
 
 ---
 
-## IV. QUY TRÌNH "PHANH KHẨN CẤP"
+## VI. GIAO THỨC CÔNG NGHỆ: ERP CFO
+
+Hệ thống quản trị tài chính tại 1CAR Gara không dựa trên sự tự giác, mà dựa trên các rào cản kỹ thuật cứng (Hard-stops).
+
+1. Điểm kiểm soát trên ERP
+- Gate Pass Control: Xe không thể ra khỏi xưởng nếu ERP chưa ghi nhận thanh toán đủ hoặc có bảo lãnh nợ trong hạn mức.
+- PO Auto-Block: Hệ thống tự động từ chối đơn nhập hàng nếu giá nhập cao hơn giá sàn quy định trong Data.
+- Budget Hard-stop: Nút "Phê duyệt" thanh toán sẽ bị xám (disable) nếu khoản chi vượt ngân sách đã duyệt ngày 25.
+
+2. Kịch bản sử dụng Chatbot CFO để cảnh báo rủi ro
+
+| Kịch bản               | AI Trigger                     | Hành động cảnh báo của AI                                                                                                             |
+| :--------------------- | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
+| Cảnh báo Lỗ gộp        | Lệnh sửa chữa có Margin < 20%  | Chatbox gửi tin nhắn khẩn cho CFO: *"Phát hiện RO #123 tại chi nhánh X có biên lợi nhuận chỉ 12%. Yêu cầu kiểm tra định mức vật tư."* |
+| Cảnh báo Tiền chết     | Mã phụ tùng tồn kho > 120 ngày | Chatbox gợi ý: *"Mã hàng má phanh Toyota tồn 50 bộ quá 4 tháng. Đề xuất tạo gói Combo bảo dưỡng giảm giá 15% để thu hồi vốn."*        |
+| Cảnh báo Đứt dòng tiền | Dự báo dòng tiền tuần T+4 < 0  | Chatbox cảnh báo: *"Dòng tiền dự kiến âm vào tuần thứ 4. Đề xuất hoãn thanh toán NCC nhóm B và thu hồi nợ Bảo hiểm Y ngay."*          |
+
+---
+
+## V. QUY TRÌNH PHANH KHẨN CẤP
 
 Khi các chỉ số chạm Vùng Đỏ, CFO kích hoạt thẩm quyền đặc biệt mà không cần thông qua cuộc họp kéo dài.
 
 1.  Trigger 1: COGS > 65% (Lấn vào quỹ dự phòng)
-    *   *Hành động:* Phong tỏa quyền đặt hàng của Giám đốc garage. Kiểm kê kho đột xuất. Đình chỉ các hạng mục sửa chữa có biên lợi nhuận thấp.
+    *   *Hành động:* Phong tỏa quyền đặt hàng của Quản lý garage. Kiểm kê kho đột xuất. Đình chỉ các hạng mục sửa chữa có biên lợi nhuận thấp.
 2.  Trigger 2: Doanh thu/Đầu người nhỏ hơn 40 triệu VNĐ (Hiệu suất thấp)
     *   *Hành động:* Đóng băng tuyển dụng. Chuyển đổi 30% lương cứng của bộ phận gián tiếp sang lương biến đổi theo doanh thu.
 3.  Trigger 3: Dòng tiền mặt nhỏ hơn 1 tháng chi phí cố định
@@ -89,7 +110,7 @@ Khi các chỉ số chạm Vùng Đỏ, CFO kích hoạt thẩm quyền đặc b
 
 ---
 
-## V. KIẾN TRÚC QUẢN TRỊ VÀ MA TRẬN PHÂN QUYỀN
+## VI. KIẾN TRÚC QUẢN TRỊ VÀ MA TRẬN PHÂN QUYỀN
 
 ### 1. Sơ đồ Quan hệ Quản trị
 
@@ -115,7 +136,7 @@ Kiến trúc này mô tả mối quan hệ cộng tác và giám sát giữa cá
 | Chính sách công nợ & Chiết khấu           |      Giám sát       |  Tham mưu  |        Quyết định         |
 | Tuyển dụng & Lương khối vận hành          |        Không        | Quyết định |      Duyệt quỹ lương      |
 
-## VI. CƠ CHẾ KIỂM SOÁT & QUẢN TRỊ RỦI RO
+## VII. CƠ CHẾ KIỂM SOÁT & QUẢN TRỊ RỦI RO
 
 ### 1. Quy trình Kiểm soát Nội bộ
 *   Nguyên tắc Bất kiêm nhiệm: Tách biệt rõ ràng 3 chức năng: Người phê duyệt chi - Người thủ kho - Người ghi sổ kế toán.
@@ -131,3 +152,13 @@ Kiến trúc này mô tả mối quan hệ cộng tác và giám sát giữa cá
 *   Tính Trung thực: Tuyệt đối không làm sai lệch số liệu tài chính để làm đẹp báo cáo.
 *   Tính Bảo mật: Bảo vệ thông tin về cơ cấu giá, chi phí vốn và dữ liệu khách hàng của 1CAR Gara.
 *   Tính Khách quan: Đưa ra các đánh giá dựa trên bằng chứng dữ liệu, không chịu sự chi phối bởi lợi ích cá nhân hoặc nhóm.
+
+## VIII. KẾT LUẬN & KỶ LUẬT VẬN HÀNH
+
+Tài liệu này là Luật tài chính bất biến của 1CAR Gara. Để bảo vệ an toàn hệ thống, mọi thành viên phải ghi nhớ 3 nguyên tắc kỷ luật sắt:
+
+1.  Quyền phủ quyết của CFO là tuyệt đối: Trong các vấn đề liên quan đến dòng tiền và hạn mức tín dụng, quyết định của CFO có giá trị thực thi cao nhất, CEO chỉ có quyền khiếu nại lên HĐTV nhưng không có quyền ghi đè trên hệ thống.
+2.  Dữ liệu là nguồn sự thật duy nhất: Không phê duyệt bất kỳ khoản chi nào dựa trên lời hứa hoặc uy tín cá nhân. Mọi thứ phải được định lượng hóa trên ERP.
+3.  Kỷ luật Hũ tiền: Tuyệt đối không được mượn tiền từ Hũ Dự phòng 5% để bù đắp cho sự yếu kém trong quản trị vận hành.
+
+> CFO 1CAR Gara: *"CFO không ngăn cản garage chạy nhanh, CFO chỉ đảm bảo garage có đủ phanh để không bao giờ lao xuống vực thẳm tài chính."*

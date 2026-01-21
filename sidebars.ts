@@ -223,14 +223,24 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'category',
-          label: 'Nhiệm vụ & hướng dẫn',
+          label: 'Nhiệm vụ & sổ tay',
           items: [
-            'giam-doc-tai-chinh-cfo/de-xuat-mo-ta-nhiem-vu',
-            'giam-doc-tai-chinh-cfo/khung-module-va-nhiem-vu',
-            'giam-doc-tai-chinh-cfo/phan-tich-cac-tham-so-quan-tri',
-            'giam-doc-tai-chinh-cfo/mo-ta-nhiem-vu-cfo',
-            'giam-doc-tai-chinh-cfo/so-tay-nhiem-vu',
-            'giam-doc-tai-chinh-cfo/quy-trinh-du-bao-dong-tien-13-tuan',                   
+            'giam-doc-tai-chinh-cfo/mo-ta-va-so-tay-nhiem-vu/de-xuat-mo-ta-nhiem-vu',
+            'giam-doc-tai-chinh-cfo/mo-ta-va-so-tay-nhiem-vu/khung-module-va-nhiem-vu',
+            'giam-doc-tai-chinh-cfo/mo-ta-va-so-tay-nhiem-vu/phan-tich-cac-tham-so-quan-tri',
+            'giam-doc-tai-chinh-cfo/mo-ta-va-so-tay-nhiem-vu/mo-ta-nhiem-vu-cfo',
+            'giam-doc-tai-chinh-cfo/mo-ta-va-so-tay-nhiem-vu/so-tay-nhiem-vu',                               
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Bộ quy trình 5 module',
+          items: [
+            'giam-doc-tai-chinh-cfo/bo-quy-trinh-5-module/module-a-ke-hoach-tai-chinh',
+            'giam-doc-tai-chinh-cfo/bo-quy-trinh-5-module/module-b-diem-hoa-von-va-hieu-suat',
+            'giam-doc-tai-chinh-cfo/bo-quy-trinh-5-module/module-c-ban-hang-va-ton-kho',
+            'giam-doc-tai-chinh-cfo/bo-quy-trinh-5-module/module-d-quan-tri-cong-no',
+            'giam-doc-tai-chinh-cfo/bo-quy-trinh-5-module/module-e-kiem-soat-dong-tien',                               
           ],
         },
       ],
